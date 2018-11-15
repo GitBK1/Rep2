@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="recurring_rocket_SAR_headline"><![CDATA[<span class="bn_headline">Kurzzeitig
+            verfügbar: Brandneue Hellstorm-Raketen</span>]]></item>
+ <item name="recurring_rocket_SAR_teaser"><![CDATA[<div class="bn_teaser">Gute Nachrichten,
+            Space-Piloten!</div><br />]]></item>
+ <item name="recurring_rocket_SAR_content"><![CDATA[<div class="bn_text">Diese Piraten-Beute ist immer
+            wieder für Überraschungen gut! Jetzt wurde von einigen Piloten schon wieder ein echtes Wunderwerk
+            der Waffentechnologie darin gefunden: <span class="bn_highlight"><b>die Hellstorm-SAR-Raketen!</span></b>
+            Wir haben die Technologie genau studiert und diese äußerst kleinen, aber enorm effektiven
+            Hellstorm-SAR-Raketen nachgebaut.
+            <br /><br />
+            <div class="bn_teaser"><b>Klein und effektiv: Schildabsorbierende Hellstorm-Raketen</b></div><br />
+            Die Hellstorm-SAR-Raketen <span class="bn_highlight"><b>absorbieren die Schildkraft des
+            Gegners</span></b> und übertragen sie auf das eigene Schiff ... gleichzeitig sind diese Raketen
+            so kompakt, dass sie sogar in den Rocketlauncher passen. Eine echte Meisterleistung!
+            <br /><br /></div>]]></item>
+ <item name="recurring_rocketSAR_footer"><![CDATA[<div class="bn_footer">Haut rein, Piloten,
+            holt Euch die Hellstorm-Raketen und macht Euren Gegnern die Hölle heiß!<br />
+            <br />
+            Euer DarkOrbit-Team</div>]]></item>
+ <item name="recurring_rocket_SAR_withPayment_headline"><![CDATA[<span class="bn_headline">Kurzzeitig
+        verfügbar: Brandneue Hellstorm-Raketen</span>]]></item>
+ <item name="recurring_rocket_SAR_withPayment_teaser"><![CDATA[<div class="bn_teaser">Great news,
+        Space Pilots!</div><br />]]></item>
+ <item name="recurring_rocket_SAR_withPayment_content"><![CDATA[<div class="bn_text">Diese Piraten-Beute ist immer
+        wieder für Überraschungen gut! Jetzt wurde von einigen Piloten schon wieder ein echtes Wunderwerk
+        der Waffentechnologie darin gefunden: <span class="bn_highlight"><b>die Hellstorm-SAR-Raketen!</span></b>
+        Wir haben die Technologie genau studiert und diese äußerst kleinen, aber enorm effektiven
+        Hellstorm-SAR-Raketen nachgebaut.
+        <br /><br />
+        <div class="bn_teaser"><b>Klein und effektiv: Schildabsorbierende Hellstorm-Raketen</b></div><br />
+        Die Hellstorm-SAR-Raketen <span class="bn_highlight"><b>absorbieren die Schildkraft des
+        Gegners</span></b> und übertragen sie auf das eigene Schiff ... gleichzeitig sind diese Raketen
+        so kompakt, dass sie sogar in den Rocketlauncher passen. Eine echte Meisterleistung!
+        <br /><br />
+        <div class="bn_teaser"><b>Nur kurzzeitig im Payment verfügbar!</b></div><br />
+        Die Hellstorm-SAR-Raketen in der Piraten-Beute sind äußerst rar und nur mit viel Glück zu finden.
+        Clevere Space-Piloten nutzen die Gunst der Stunde und holen sie sich direkt im Payment. Der Clou:
+        Es gibt sogar eine dauerhaft verfügbare <span class="bn_highlight"><b>Version für Credits im
+        Shop</span></b>!
+        <br /><br />
+        </div>]]></item>
+ <item name="recurring_rocketSAR_withPayment_footer"><![CDATA[<div class="bn_footer">Haut rein, Piloten,
+        holt Euch die Hellstorm-Raketen und macht Euren Gegnern die Hölle heiß!<br />
+        <br />
+        Euer DarkOrbit-Team</div>]]></item>
+ <item name="event_influence_mmo_title"><![CDATA[Morgus Pettersonin puhe]]></item>
+ <item name="event_influence_mmo_text"><![CDATA[Tämän sanon harvoin, mutta olen perhanan ylpeä jäsenyydestäni MMO:ssa!<br /><br />Teen kovasti töitä, tienaan hyvin ja nautin vapaa-ajastani - vertaisteni seurassa. Täällä ei tarvitse pokkuroida kuin EIC:n hienostelijoille, joille tärkeintä on se onko kravatti suorassa! Eikä puuhailla älyttömien kokeiden ja vastenmielisten avaruusolioiden parissa kuten VRU:lla, jotka kasvattavat jälkikasvunsakin koeputkissa ja tunteettomissa lastentarhoissa!<br /><br />Tarjotaan maailmankaikkeudelle parempi vaihtoehto. Sen nimi on MMO!<br /><br />Olemme alkaneet mitata vaikutusvaltaamme  avaruudessa. Jokaisen tehtävä on tehdä parhaansa sen kasvattamiseksi - niin lujitamme siviiliväestön uskoa yhtiöömme, helpotamme joukkojen rekrytointia ja saamme ehkä muitakin puolellemme!<br /><br />Piraatit, lainsuojattomat, kaivostyöläiset, riippumattomat siirtokunnat ja seikkailijat ovat kaikki luonnollisia liittolaisiamme, jotka seuraavat vahvaa ja vaikutusvaltaista MMO:ta!<br /><br />Tavoitteemme on yhdistää koko ihmiskunta MMO:n punaisen lipun alle - aivan kuin Willem Cuper aikanaan Marsissa!<br /><br />]]></item>
+ <item name="event_influence_eic_title"><![CDATA[Reginald Crowleyn puhe]]></item>
+ <item name="event_influence_eic_text"><![CDATA[Palvelus Maan puolesta! Olet varmasti yhtä ylpeä kuin minäkin EIC:n kunniakkaista perinteistä. Perinteistä, jotka vapauttivat meidät Maan asukkaat ruumiillisesta työstä ja mahdollistivat meidän seurata todellisia mielenkiintomme kohteita. Ja niistä tärkein on avaruuden valloitus!<br /><br />Koskaan enää emme tule ahertamaan likaisin kourin ja jahtaamaan saalista otsat hiessä kuin Marsin piraatit! Emmekä tule koskaan antamaan avaruusolioiden häpäistä kunniaamme kuten Venuksessa on tapana! Yhdessä voimme toimia muille esimerkkinä korkeammista arvoista. Kunpa he vain seuraisivat sitä!<br /><br />Olemme ryhtyneet mittaamaan vaikutusvaltaamme kiertoradalla. Se on ratkaisevan tärkeää hakiessamme siviilien hyväksyntää ja mobilisoidessamme uusia joukkoja. Toivomme vahvan vaikutusvallan vakuuttavan ihmiskunnan parhaat ja kehittyneimmät liittymään EIC:n riveihin!<br /><br />Ehkäpä meidän onnistuu jonain päivänä yhdistää ihmisten rotu lippumme alle, suojella kaikkia avaruuden vaaroilta ja palauttaa Maalle sille kuuluva paikka ihmiskunnan huipulla!<br /><br />]]></item>
+ <item name="event_influence_vru_title"><![CDATA[Vanessa Arkadiumin puhe]]></item>
+ <item name="event_influence_vru_text"><![CDATA[Tätä en voi painottaa liikaa: VRU on ainoa optimaalinen yhteisö ihmisten lajille menestyä.<br /><br />Vain VRU tarjoaa minulle kaikki tarvittavat resurssit ja mahdollisuudet päämäärieni saavuttamiseen. Sisäpiiri huolehtii hyvinvoinnistani päivä päivältä ja väsymättä. Voin uskoa itseni täysin sen rakkauden ja huolenpidon varaan!<br /><br />Minua säälittävät Marsin oppimattomat, jotka yhtiönsä vankeina tuntevat vain yhden ainoan, alhaisen tavan elää. Samoin kuin ahdasmieliset maalaiset, joiden koko identiteetti riippuu likaisen planeettansa menneisyydestä ja jotka yhtiönsä rauhoittaa leivällä ja sirkushuveilla. Me olemme näitä tietämättömiä ohjaava majakka!<br /><br />Vahvistaaksemme siviiliväestömme uskoa yhtiöömme ja rekrytoidaksemme uusia joukkoja täytyy meidän vahvistaa vaikutusvaltaamme kiertoradalla. Ehkäpä vahva vaikutusvalta saa yhtiöidensä virheet viimein huomaavat liittymään VRU:n riveihin!<br /><br />Kykymme ovat rajattomat! Matkamme on vasta alussa! Yhdessä tulemme muokkaamaan ihmiskunnasta korkeamman lajin!<br /><br />]]></item>
+ <item name="event_influence_2015_01_mmo_title"><![CDATA[Morgus Pettersonin puhe]]></item>
+ <item name="event_influence_2015_01_mmo_text"><![CDATA[Herhiläiset! Minulla on ollut viime aikoina kova ikävä tappavia pistojanne. Vaikutusvaltamme kiertoradalla heikkenee. MMO:ta ei saa päästää veltostumaan, kuten Maan mutanaamoille on käynyt!<br /><br />"Taistellen eteenpäin!" sanon minä - vaikutusvaltamme kasvattaminen on jokaisen teistä vastuulla. Sillä tavalla saamme siviilit luottamaan yhtiöömme, helpotamme joukkojen värväystä ja saamme muitakin taistelemaan asiamme puolesta!<br /><br />Lisäksi saatte mahdollisuuden hioa kykyjänne. Pilotit, teidät on kaikki kutsuttu osallistumaan sikarikkaan miljardöörin järjestämälle vanhalle kunnon safarille! Sen loppuun saakka suorittaneita odottaa maine ja kunnia - ja siinä sivussa röykkiö krediittejä ja resursseja. Lisätietoja saat minulta komentokeskuksesta!<br /><br />Herhiläiset, vallatkaa mielin määrin ja yhdistäkää ihmiskunta MMO:n punaisen lipun alle. Mars eteenpäin!<br /><br />]]></item>
+ <item name="event_influence_2015_01_eic_title"><![CDATA[Reginald Crowleyn puhe]]></item>
+ <item name="event_influence_2015_01_eic_text"><![CDATA[Skorpionit! Korviini on kantautunut huonoja uutisia: Vaikutusvaltamme kiertoradalla laimenee. Tätä ilmiötä vastaan meidän on käytävä tarmokkaasti, jos EIC aikoo lunastaa paikkansa ihmiskunnan suojelijana!<br /><br />Jokaisen teistä odotetaan tekevän kaikkensa EIC:n vahvistamiseksi. Vaikutusvaltamme kiertoradalla on ratkaisevassa roolissa yrittäessämme voittaa siviileiden luottamus ja värvätä uusia joukkoja. Vain sen avulla saamme ihmislajille parhaimmiston tukemaan EIC:n asiaa!<br /><br />Lisäksi teille on tarjolla mahdollisuus kehittyä pilotteina. Osallistukaa erään nimettömän miljardöörin vanhanaikaiselle safarille saadaksenne mainetta ja kunniaa. Materiasta, kuten krediiteistä ja resursseista, ei myöskään tule pula. Lisätietoja saatte minulta komentokeskuksesta käsin!<br /><br />Skorpionit, älkää koskaan unohtako tärkeintä tehtäväämme, ihmiskunnan yhdistämistä lippumme alle. Taistelkaa Maalle sen ansaitsema paikka ihmiskunnan huipulla!<br /><br />]]></item>
+ <item name="event_influence_2015_01_vru_title"><![CDATA[Vanessa Arkadiumin puhe]]></item>
+ <item name="event_influence_2015_01_vru_text"><![CDATA[Kobrat, meidän on puhuttava! Viimeisimmät analyysimme osoittavat vaikutusvaltamme olevan laskussa kiertoradalla. Sitä me emme voi hyväksyä: Pelissä on ihmislajin tulevaisuus!<br /><br />Sisäpiirii kehottaa jokaista siihen kykenevää antamaan panoksensa. Jos EIC tai MMO pääsee kiertoradan herraksi, odottaa meitä älyllinen pimeys - sen emme voi antaa tapahtua! Tarvitsemme vahvaa vaikutusvaltaa saadaksemme siviiliväestön luottamuksen ja värvätäksemme uusia joukkoja. Vain vahvasta VRU:sta on voittamaan puolelleen ne, jotka tunnistavat muiden yhtiöiden lyhytnäköisyyden!<br /><br />Käyttäkää myös hyväksenne mahdollisuutta kehittää lentäjäntaitojanne - nimetön miljardööri järjestää vanhanaikaisen safarin, jonka suorittajia odottaa maineen ja kunnian lisäksi kasapäin krediittejä ja resursseja! Kiinnostuneet saavat minulta lisätietoja komentokeskuksesta.<br /><br />Kobrat, VRU on edistyksen hohtava majakka! Kykymme ovat rajattomat! Yhdessä tulemme muokkaamaan ihmiskunnasta ylhäisemmän lajin!<br /><br />]]></item>
+ <item name="event_influence_title"><![CDATA[Vaikutusvalta - sijoitus]]></item>
+ <item name="event_influence_characterSpeech"><![CDATA[Komentajan puhe]]></item>
+ <item name="event_influenceBattle_action_npcKill"><![CDATA[Tuhotut avaruusoliot]]></item>
+ <item name="event_influenceBattle_action_enemyFactionPlayerKill"><![CDATA[Tuhotut pilotit]]></item>
+ <item name="event_influenceBattle_action_questFinished"><![CDATA[Suoritetut tehtävät]]></item>
+ <item name="event_influenceBattle_action_teamDeathMatchWin"><![CDATA[Team Deathmatch -voitot]]></item>
+ <item name="event_influenceBattle_action_sectorControlMatchWin"><![CDATA[Sektorinhallinta -voitot]]></item>
+ <item name="event_influenceBattle_action_captureTheBeaconScorePoint"><![CDATA[Capture the Beacon -pisteet]]></item>
+ <item name="event_influenceBattle_action_galaxyGateAlphaDone"><![CDATA[Suoritetut Alpha-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateBetaDone"><![CDATA[Suoritetut Beta-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateGammaDone"><![CDATA[Suoritetut Gamma-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateDeltaDone"><![CDATA[Suoritetut Delta-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateEpsilonDone"><![CDATA[Suoritetut Epsilon-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateZetaDone"><![CDATA[Suoritetut Zeta-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateKappaDone"><![CDATA[Suoritetut Kappa-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateLambdaDone"><![CDATA[Suoritetut Lambda-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateKronosDone"><![CDATA[Suoritetut Kronos-portit]]></item>
+ <item name="event_influenceBattle_action_galaxyGateHadesDone"><![CDATA[Suoritetut Hades-portit]]></item>
+</resource>

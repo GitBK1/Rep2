@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="messaging_subNav_inbox"><![CDATA[SAAPUNEET]]></item>
+ <item name="messaging_subNav_inbox_long"><![CDATA[Saapuneet]]></item>
+ <item name="messaging_subNav_outbox"><![CDATA[LÄHETETYT]]></item>
+ <item name="messaging_subNav_outbox_long"><![CDATA[Lähetetyt]]></item>
+ <item name="messaging_subNav_contacts"><![CDATA[KONTAKTIT]]></item>
+ <item name="messaging_subNav_contacts_long"><![CDATA[Kontaktit]]></item>
+ <item name="messaging_subNav_notes"><![CDATA[MUISTIINPANOT]]></item>
+ <item name="messaging_subNav_notes_long"><![CDATA[Muistiinpanot]]></item>
+ <item name="messaging_common_sysMessageSender"><![CDATA[DarkOrbit]]></item>
+ <item name="messaging_common_auctionSender"><![CDATA[Planeettojenvälinen huutokauppa]]></item>
+ <item name="messaging_common_clan"><![CDATA[Klaani:]]></item>
+ <item name="messaging_common_selectAll"><![CDATA[Kaikki]]></item>
+ <item name="messaging_common_newMessage"><![CDATA[Uusi viesti]]></item>
+ <item name="messaging_common_newMessage_long"><![CDATA[Kirjoita uusi viesti]]></item>
+ <item name="messaging_common_okayBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_confirmBtn"><![CDATA[OK]]></item>
+ <item name="messaging_common_abortBtn"><![CDATA[Peruuta]]></item>
+ <item name="messaging_common_pageInfo"><![CDATA[%start%-%end%/%total%]]></item>
+ <item name="messaging_common_save"><![CDATA[Tallenna]]></item>
+ <item name="messaging_common_reply"><![CDATA[Vastaa]]></item>
+ <item name="messaging_common_forward"><![CDATA[Lähetä eteenpäin]]></item>
+ <item name="messaging_common_replyAll"><![CDATA[Vastaa kaikille]]></item>
+ <item name="messaging_common_saveAsNote"><![CDATA[Tallenna muistiinpanoihin]]></item>
+ <item name="messaging_common_blacklist"><![CDATA[Musta lista]]></item>
+ <item name="messaging_common_blacklist_long"><![CDATA[Avaa musta lista]]></item>
+ <item name="messaging_common_newNote"><![CDATA[Uusi muistiinpano]]></item>
+ <item name="messaging_common_newNote_long"><![CDATA[Kirjoita uusi muistiinpano]]></item>
+ <item name="messaging_filter_all"><![CDATA[Kaikki]]></item>
+ <item name="messaging_filter_unread"><![CDATA[Lukemattomat]]></item>
+ <item name="messaging_filter_clan"><![CDATA[Klaani]]></item>
+ <item name="messaging_filter_system"><![CDATA[Järjestelmä]]></item>
+ <item name="messaging_filter_auction"><![CDATA[Huutokauppa]]></item>
+ <item name="messaging_filter_info"><![CDATA[Info]]></item>
+ <item name="messaging_folderView_recipients"><![CDATA[Saaja:]]></item>
+ <item name="messaging_folderView_userWrote"><![CDATA[%username% kirjoitti:]]></item>
+ <item name="messaging_contacts_sendAnInvite"><![CDATA[lähetti pyynnön...]]></item>
+ <item name="messaging_contacts_confirm"><![CDATA[Hyväksy]]></item>
+ <item name="messaging_contacts_decline"><![CDATA[Hylkää]]></item>
+ <item name="messaging_tooltip_mailStatusAnswered"><![CDATA[vastattu viesti]]></item>
+ <item name="messaging_tooltip_mailStatusRead"><![CDATA[luettu viesti]]></item>
+ <item name="messaging_tooltip_mailStatusUnread"><![CDATA[lukematon viesti]]></item>
+ <item name="messaging_tooltip_messageDelete"><![CDATA[Poista viesti]]></item>
+ <item name="messaging_tooltip_addToBlacklist"><![CDATA[Aseta lähettäjä mustalle listalle]]></item>
+ <item name="messaging_tooltip_selectAll"><![CDATA[valitse kaikki]]></item>
+ <item name="messaging_tooltip_deleteSelected"><![CDATA[poista valitut]]></item>
+ <item name="messaging_tooltip_noteForward"><![CDATA[Lähetä muistiinpano eteenpäin]]></item>
+ <item name="messaging_tooltip_noteDelete"><![CDATA[Poista muistiinpano]]></item>
+ <item name="messaging_tooltip_friendCancel"><![CDATA[Poista kaveruus]]></item>
+ <item name="messaging_tooltip_sendMessage"><![CDATA[Lähetä viesti]]></item>
+ <item name="messaging_tooltip_blockAllNotifications"><![CDATA[Sivuuttaa automaattisesti kaikki kutsut]]></item>
+ <item name="messaging_notes_premiumBlocked"><![CDATA[Ei näy, sillä muistiinpanojen raja ylittyi.]]></item>
+ <item name="messaging_msgWrite_replyAcronym"><![CDATA[VS:]]></item>
+ <item name="messaging_msgWrite_search"><![CDATA[Haku]]></item>
+ <item name="messaging_msgWrite_contacts"><![CDATA[Kontaktit]]></item>
+ <item name="messaging_msgWrite_recipients"><![CDATA[Saaja:]]></item>
+ <item name="messaging_msgWrite_subject"><![CDATA[Aihe:]]></item>
+ <item name="messaging_msgWrite_sendMessage"><![CDATA[Lähetä viesti]]></item>
+ <item name="messaging_msgWrite_cancel"><![CDATA[Peruuta]]></item>
+ <item name="messaging_msgWrite_messageToClan"><![CDATA[Viesti klaanille]]></item>
+ <item name="messaging_help_title"><![CDATA[Apu]]></item>
+ <item name="messaging_help_inbox_h"><![CDATA[Saapuneet]]></item>
+ <item name="messaging_help_inbox_p"><![CDATA[Löydät saapuneista kaikki viestit, jotka lähetettiin sinulle. Täällä voit lukea niitä, vastata niihin tai poistaa ne. Valitse valikosta vasemmalta ylhäältä, mitä viestejä haluat katsoa. Klikkaa "uusi viesti" kirjoittaaksesi toiselle pelaajalle.
+<br /><br />Viestit säilyvät korkeintaan 14 päivän ajan ja poistetaan sitten automaattisesti. Jos haluat säilyttää viestin kauemmin, tallenna se muistiinpanoihin.]]></item>
+ <item name="messaging_help_compose_h"><![CDATA[Viestien kirjoittaminen]]></item>
+ <item name="messaging_help_compose_p"><![CDATA[Anna vasemmalla olevaan hakukenttään sen pelaajan pelaajanimi, jolle haluat lähettää viestin. Jos pelaaja on palvelimellasi, voit lisätä hänet plus-painikkeella vastaanottajalistaan. Jos olet tallettanut kavereita kontaktilistallesi, voit lisätä heidät myös suoraan sieltä vastaanottajiin. 
+<br /><br />Sallimme viestiä kohden korkeintaan 5 vastaanottajaa spämmin ehkäisemiseksi. Poikkeuksen tekevät klaaniviestit, jotka lähetetään koko klaanille.]]></item>
+ <item name="messaging_help_sent_h"><![CDATA[Lähetetyt viestit]]></item>
+ <item name="messaging_help_sent_p"><![CDATA[Löydät muille pelaajille lähettämäsi viestit lähetetyistä viesteistä. Voit myös poistaa niitä, jos haluat. Jos haluat säilyttää jonkun niistä, tallenna se muistiinpanoihin.]]></item>
+ <item name="messaging_help_contacts_h"><![CDATA[Kontaktit]]></item>
+ <item name="messaging_help_contacts_p"><![CDATA[Voit tallentaa kontakteihin pelaajia ja kavereita, joille kirjoitat useammin viestejä. Silloin sinun ei joka kerta tarvitse etsiä heitä. Klaanin jäsenet lisätään kontaktilistalle automaattisesti.<br /><br />Voit lisätä kontaktilistalle rajoittamattoman määrän kontakteja. Kontaktin lisääminen tapahtuu näin:<br /><br />
+<ol>
+<li>Käy pelaajan profiilisivulla ja kutsu hänet kaveriksi.</li>
+<li>Syötä pelaajanimi kontakti-lehden hakuikkunaan ja lisää hänet listalle klikkaamalla plus-painiketta.</li>
+<li>Kun klikkaat pelaajanimeä, pilottivalikko avautuu. Klikkaa kirjesymbolia lähettääksesi viestin pelaajalle.</li>
+</ol>]]></item>
+ <item name="messaging_help_notes_h"><![CDATA[Muistiinpanot]]></item>
+ <item name="messaging_help_notes_p"><![CDATA[Täällä voit kirjoittaa muistiinpanoja muista pelaajista tai tärkeistä tapahtumista. Tallenna tänne myös viestit, jotka haluat säilyttää. Saapuneet viestit poistetaan 14 päivän kuluessa, paitsi jos tallennat niitä muistiinpanoihin, jolloin ne säilyvät haluamasi ajan.<br /><br />Huomaa: Voit tallentaa korkeintaan 10 muistiinpanoa, premium-pelaajana jopa 50!]]></item>
+ <item name="messaging_errorLayer_system_title"><![CDATA[Tuntematon virhe]]></item>
+ <item name="messaging_errorLayer_system_text"><![CDATA[Tuntematon virhe tapahtui. Klikkaa "ok" aloittaaksesi viestijärjestelmän uudestaan.]]></item>
+ <item name="messaging_errorLayer_blocked_title"><![CDATA[Virhe]]></item>
+ <item name="messaging_errorLayer_blocked_text"><![CDATA[Vastaanottaja ei halua viestejä.]]></item>
+ <item name="messaging_errorLayer_spam_title"><![CDATA[Spam]]></item>
+ <item name="messaging_errorLayer_spam_text"><![CDATA[Viestitilisi on suljettu. Et voi tällä hetkellä lähettää minkäänlaisia viestejä. Ota yhteys tukeen, jos haluat poistaa sulun.]]></item>
+ <item name="messaging_errorLayer_blacklisted_title"><![CDATA[Musta lista]]></item>
+ <item name="messaging_errorLayer_blacklisted_text"><![CDATA[Vastaanottaja on asettanut sinut mustalle listalle. Et voi lähettää hänelle viestiä.]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_title"><![CDATA[Aihe liian lyhyt]]></item>
+ <item name="messaging_errorLayer_subjectTooShort_text"><![CDATA[Aihe on liian lyhyt; sen tulee olla vähintään 3 merkkiä.]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_title"><![CDATA[Aihe liian pitkä]]></item>
+ <item name="messaging_errorLayer_subjectTooLong_text"><![CDATA[Aihe on liian pitkä; se saa olla korkeintaan 50 merkkiä.]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_title"><![CDATA[Viesti liian lyhyt]]></item>
+ <item name="messaging_errorLayer_bodyTooShort_text"><![CDATA[Viesti on liian lyhyt; sen pitää olla väh. 5 merkkiä.]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_title"><![CDATA[Koodi väärin]]></item>
+ <item name="messaging_errorLayer_wrongCaptcha_text"><![CDATA[Valitettavasti syötit väärän Captcha-koodin.]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_title"><![CDATA[Liian monta vastaanottajaa]]></item>
+ <item name="messaging_errorLayer_maxUnknownUser_text"><![CDATA[Viestiäsi ei voida lähettää, koska kontakteissasi eikä klaanissasi ei ole yli kymmentä vastaanottajaa.]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_title"><![CDATA[Viesti liian pitkä]]></item>
+ <item name="messaging_errorLayer_bodyTooLong_text"><![CDATA[Viesti on liian pitkä; se saa olla maks. 5000 merkkiä.]]></item>
+ <item name="messaging_errorLayer_noRecipient_title"><![CDATA[Ei vastaanottajaa]]></item>
+ <item name="messaging_errorLayer_noRecipient_text"><![CDATA[Vastaanottaja puuttuu.]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_title"><![CDATA[Liian monta vastaanottajaa]]></item>
+ <item name="messaging_errorLayer_tooManyRecipients_text"><![CDATA[Vastaanottajia voi olla korkeintaan 5.]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_title"><![CDATA[Lisää vastaanottaja]]></item>
+ <item name="messaging_errorLayer_addOfClanWhileRecipients_text"><![CDATA[Vastaanottajia on jo annettu. Voit lähettää viestin maks. 5 pelaajalle TAI koko klaanille.]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_title"><![CDATA[Vastaanottajan muokkaaminen ei mahdollista]]></item>
+ <item name="messaging_errorLayer_replyNoRecipientSwitch_text"><![CDATA[Kun vastaat viestiin, et voi muokata vastaanottajaa.]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_title"><![CDATA[Muistiinpanojen raja saavutettu]]></item>
+ <item name="messaging_errorLayer_notesLimitReached_text"><![CDATA[Muistiinpanojen raja (%notesLimit%) on saavutettu. Sinun pitää poistaa yksi, ennen kuin voit tallentaa uuden.]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_title"><![CDATA[Virhe]]></item>
+ <item name="messaging_errorLayer_restrictionUnknownUser_text"><![CDATA[Viestiä ei lähetetty: Tasolla %userlevel% voit lähettää enintään %maxMessages% viestiä pelaajille, jotka eivät ole kontakteissasi tai klaanissasi. Tämä rajoitus nollataan 24 tunnin välein.]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_title"><![CDATA[Hylkää kaveripyyntö]]></item>
+ <item name="messaging_confirmLayer_contactRequestDecline_text"><![CDATA[Haluatko varmasti torjua kaveripyynnön?]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_title"><![CDATA[Peruuta kontaktikutsu]]></item>
+ <item name="messaging_confirmLayer_contactCancelInvitation_text"><![CDATA[Haluatko varmasti peruuttaa kontaktikutsun?]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_title"><![CDATA[Kontaktikutsusi]]></item>
+ <item name="messaging_successLayer_deleteDeclinedInvitation_text"><![CDATA[Hylätty kontaktikutsu poistetaan]]></item>
+ <item name="messaging_confirmLayer_contactDelete_title"><![CDATA[Poista kaveruus]]></item>
+ <item name="messaging_confirmLayer_contactDelete_text"><![CDATA[Haluatko varmasti lopettaa kaveruuden?]]></item>
+ <item name="messaging_confirmLayer_noteDelete_title"><![CDATA[Poista muistiinpano]]></item>
+ <item name="messaging_confirmLayer_noteDelete_text"><![CDATA[Haluatko varmasti poistaa muistiinpanon?]]></item>
+ <item name="messaging_confirmLayer_messageDelete_title"><![CDATA[Poista viesti]]></item>
+ <item name="messaging_confirmLayer_messageDelete_text"><![CDATA[Haluatko varmasti poistaa viestin?]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_title"><![CDATA[Lisää mustalle listalle]]></item>
+ <item name="messaging_confirmLayer_addToBlacklist_text"><![CDATA[Haluatko lisätä käyttäjän %username% mustalle listalle? Hän ei voi silloin enää lähettää sinulle viestejä.]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_title"><![CDATA[Poista mustalta listalta]]></item>
+ <item name="messaging_confirmLayer_blackListDelete_text"><![CDATA[Haluatko poistaa käyttäjän %username% mustalta listalta? Hän voi silloin taas lähettää sinulle viestejä.]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_title"><![CDATA[Poista viestit]]></item>
+ <item name="messaging_confirmLayer_messageMultiDelete_text"><![CDATA[Haluatko varmasti poistaa valitut viestit?]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_title"><![CDATA[Kontaktikutsut]]></item>
+ <item name="messaging_confirmLayer_blockAllInvites_text"><![CDATA[Haluatko varmasti estää kaikki kontaktikutsut? Tämä johtaa kaikkien saamiesi avoimien kyselyiden hylkäämiseen ja kaikkien lähettämiesi kyselyiden perumiseen.]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_title"><![CDATA[Kaverikysely hyväksytty]]></item>
+ <item name="messaging_successLayer_contactRequestAccepted_text"><![CDATA[Kaverikyselyn hyväksyminen onnistui.]]></item>
+ <item name="messaging_successLayer_noteSaved_title"><![CDATA[Muistiinpano tallennettu]]></item>
+ <item name="messaging_successLayer_noteSaved_text"><![CDATA[Muistiinpanon tallennus onnistui!]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_title"><![CDATA[Tallennettu muistiinpanoihin]]></item>
+ <item name="messaging_successLayer_messageSavedAsNote_text"><![CDATA[Viestin tallennus muistiinpanoihin onnistui!]]></item>
+ <item name="messaging_successLayer_messageSent_title"><![CDATA[Viesti lähetetty]]></item>
+ <item name="messaging_successLayer_messageSent_text"><![CDATA[Viestin lähetys onnistui]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_title"><![CDATA[Kontaktikutsut]]></item>
+ <item name="messaging_successLayer_blockAllInvites_text"><![CDATA[Kaikki kontaktikutsut estetään.]]></item>
+ <item name="messaging_successLayer_unblockAllInvites_text"><![CDATA[Kutsuja voidaan taas ottaa vastaan.]]></item>
+ <item name="messaging_label_blockAllInvitation"><![CDATA[Estä kaikki kutsut]]></item>
+ <item name="messaging_label_yourInviteIsPending"><![CDATA[Kutsuusi ei ole vielä vastattu.]]></item>
+ <item name="messaging_label_yourInviteWasDeclined"><![CDATA[Kutsusi on hylätty.]]></item>
+ <item name="messaging_label_cancelYourInvite"><![CDATA[Peruuta]]></item>
+ <item name="messaging_label_deleteYourInvite"><![CDATA[Poista]]></item>
+ <item name="messaging_systemMessage_1_subject"><![CDATA[Tervetuloa DarkOrbitin viestijärjestelmään!]]></item>
+ <item name="messaging_systemMessage_1_body"><![CDATA[Hei avaruuspilotti,<br />
+<br />
+haluamme tänään esitellä DarkOrbitin uusimman päivityksen: viestijärjestelmän! Vanha klaaninsisäinen viestijärjestelmä muuttui täysin ja siihen lisättiin uusia toimintoja.<br />
+<br />
+Tämä on uutta:<br />
+<br />
+<ul>
+<li>Viestien nopea ja helppo lähettäminen useammalle pelaajalle.</li>
+<li>Selkeä ja kompakti viestinäkymä.</li>
+<li>Sähköpostit säilytetään 2 viikon ajan ja poistetaan automaattisesti, tai ne voidaan tallentaa muistiinpanoihin.</li>
+<li>Pääsy kaverilistalle ja helppo viestien lähetys kavereille (kavereita voidaan aluksi lisätä vain heidän profiilisivujensa kautta)</li>
+<li>Kätevä muistiinpanojärjestelmä, jolla voi tallentaa 10 viestiä tai muistiinpanoa pysyvästi. Premium-pelaajana voit tallentaa jopa 50 muistiinpanoa.</li>
+<li>Musta lista, jolla voit blokata joidenkin pelaajien viestit.</li>
+</ul>
+<br />
+Huomaathan, että pornografista tai rasistista sisältöä tai mainoksia ei sallita, ja niiden kohdalla toimitaan liiketoimintaehtojen mukaisesti.<br /><br />
+Jos sinulla on kysymyksiä tai haluat lisätietoa, käy osiossa F.A.Q. foorumilla.<br />
+<br />
+Hauskaa viestittelyä!<br /><br />
+Tv. DarkOrbit-tiimi]]></item>
+ <item name="messaging_systemMessage_2_subject"><![CDATA[Tervetuloa yhtiöön %FACTION%]]></item>
+ <item name="messaging_systemMessage_2_body"><![CDATA[Alokas, yhtiömme %FACTION% toivottaa sinut tervetulleeksi!
+<br /><br />
+Teit oikean valinnan liittyessäsi yhtiöömme! Tarvitsemme kaltaisiasi nuoria ja innokkaita avaruuspilotteja - sitä paitsi olit kuulema avaruusakatemiassa yksi kurssisi parhaita! Voit auttaa meitä saamaan ratkaisevan edun kilpailussa muita yhtiöitä vastaan.
+<br /><br />
+Haluatko heti matkaan? Klikkaa siinä tapauksessa aloituspainiketta. Se vie sinut suoraan avaruuskartalle, jossa seikkailusi voi alkaa.
+<br /><br />
+Sinulla on onnea: Meillä on juuri oikeanlainen <strong>aloitustehtävä</strong> sinulle. Harjoittele lentotaitojasi, kerää varusteita menestyksekästä alkua varten ja ryhdy luomaan nimeä avaruuspilottien joukossa.
+<br /><br />
+Aluksi saat pari helppoa tehtävää kokeillaksesi taitojasi. Harjoittelemalla sinusta tulee vähitellen kokenut avaruuspilotti. Kun olet suorittanut nämä tehtävät, saat palkkioksi lisävarusteita alukseesi. <strong>Lennä takaisi asemalle ja siellä sijaitsevaan hangaariin</strong> varustaaksesi niillä alustasi. Osassa <strong>varusteet</strong> löydät rivin vapaita paikkoja, joita voit varustaa uusilla varusteillasi. Suoritettuasi kaikki aloitustehtävät, löydät <strong>pääsivun tehtävät -osasta</strong> uusia tehtäviä ja haasteita.
+<br /><br />
+Alokkaana saat yhtiöltäsi reilusti tukea: <strong>Kahden viikon ilmaiset premiumedut</strong> mahdollistavat sinulle aluksesi ilmaiset korjaukset, lyhyemmät rakettien latausajat, edulliset uridiumhinnat jne.
+<br /><br />
+Toivotamme sinulle menestystä urallesi, avaruuspilotti. Vielä kerran, tervetuloa DarkOrbitiin!]]></item>
+ <item name="messaging_systemMessage_3_subject"><![CDATA[Tukipaketti]]></item>
+ <item name="messaging_systemMessage_3_body"><![CDATA[Onnittelut pilotti!
+<br /><br />
+Olet menestynyt hyvin ja tuonut yhtiöllesi mainetta ja kunniaa. Yhtiösi lähetti sinulle tämän paketin auttaaksesi sinua taistelussa avaruusolioita ja muita yhtiöitä vastaan. Saadaksesi paketin käyttöösi klikkaa tätä linkkiä: %LINK%
+<br /><br />
+<ul>
+<li><strong>1 ostotuplaaja</strong>
+<br />
+Kun ostat uridiumia tilisi uridium-sivulta, saat sillä ostokerralla automaattisesti tuplamäärän uridiumia. Jos siis ostat 30 000 uridiumia, saat yhteensä 60 000 tilillesi.*
+</li>
+<li><strong>10 000 uridiumia</strong>
+<br />
+10 000 premium-valuutan yksiköllä voit hankkia itsellesi DarkOrbitissa uusia varusteita, voit korjata alustasi ja droonejasi tai parantaa tuotteita.
+</li>
+<li><strong>2 x LF3-laser</strong>
+<br />
+Kaksi eliittilaseria vie sinut taistelussa varmasti pitkälle. Varusta aluksesi niillä ja hyödyt niiden tehokkaasta tulivoimasta.
+</li>
+<li><strong>5000 kpl MCB-50-laserammuksia</strong>
+<br />
+Apua mihin tahansa avaruuden osioon: 5000 eliittiammuksella MCB-50 kamppailu alieneita ja vihollispelaajia vastaan helpottuu.
+</li>
+<li><strong>150 PLT-3030-rakettia</strong>
+PLT-3030-raketit ovat muutamille avaruusolennoille välitön kuolemantuomio. Tämä ei kuitenkaan tarkoita, että vihollispelaajat erityisesti pitäisivät niistä.
+</li>
+</ul>
+<br />
+Hyvälle yhteistyölle, pilotti!
+<br /><br />
+Yhtiön hallitus
+<br />
+*Ei voi käyttää muiden erityistarjousten aikana, kuten happy hourin. Jalkapallotapahtumien aikana kerroin on voimassa vain asetetulle panosmäärälle, ei maalibonukselle.]]></item>
+ <item name="messaging_systemMessage_3_link"><![CDATA[KLIKKAA TÄSTÄ]]></item>
+ <item name="messaging_systemMessage_3_success"><![CDATA[Tuotteet hyvitettiin tilillesi!]]></item>
+ <item name="messaging_systemMessage_3_error"><![CDATA[Tuotteet on jo tilattu tilillesi. Linkki ei enää ole voimassa!]]></item>
+ <item name="messaging_systemMessage_4_subject"><![CDATA[Ainutkertainen tarjous]]></item>
+ <item name="messaging_systemMessage_4_body"><![CDATA[Terve avaruuspilotti,
+<br /><br />
+yhtiösi osaa arvostaa palveluksiasi ja kovaa kamppailuasi yhtiön vihollisia vastaan. Siksi saat aivan erityisen tarjouksen: Kun ostat nyt uridiumia hintaan 1,99 €, saat nelinkertaisen määrän tilillesi. Tavallisen 5000 uridiumin sijaan saat tällä maksulla mahtavat 20 000 uridiumia.
+<br /><br />
+Tällaisella uridium-sysäyksellä pääset investoimaan arvokkaisiin tuotteisiin tai vaikka tehosteisiin. 
+<br /><br />
+Klikkaa tästä ottaaksesi tarjouksen käyttöön: %LINK%
+<br /><br />
+Hyvälle yhteistyölle, pilotti!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_4_link"><![CDATA[KLIKKAA TÄSTÄ]]></item>
+ <item name="messaging_systemMessage_4_success"><![CDATA[Vaihda tarjoukseen?]]></item>
+ <item name="messaging_systemMessage_4_error"><![CDATA[Tarjous on jo käytetty. Linkki ei enää ole voimassa!]]></item>
+ <item name="messaging_systemMessage_5_subject"><![CDATA[Avaruusolioaallot]]></item>
+ <item name="messaging_systemMessage_5_body"><![CDATA[Terve pilotti,
+<br /><br />
+Orbitissa on paljon nähtävää, ja joka rintamalla riittää taistelua. Esimerkiksi galaksiportit ovat sellaisia rintamia. Siellä törmäät avaruusolioaaltoihin, jotka sinun on haastettava, jotta saisit lopuksi rapean palkkion. 
+<br /><br />
+Sinun tulee kerätä tarvittavat osat, jotta pääsisit hyppäämään galaksiportista uusiin seikkailuihin. Näitä osia saat materialisoijalta. 
+<br /><br />
+On myös yhtiösi etu, että treenaat taisteluvalmiuksiasi galaksiporteilla ja siksi se lahjoittaa sinulle 50 ekstraenergiaa. Saat ekstraenergiat etuseteleinä. Voit käyttää jokaista etuseteliä kerran materialisoijalla.
+<br /><br />
+Seuraa linkkiä ja pääset suoraan galaksiportti-materialisoijan luo: %LINK%
+<br /><br />
+Hyvälle yhteistyölle, pilotti!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_5_link"><![CDATA[KLIKKAA TÄSTÄ]]></item>
+ <item name="messaging_systemMessage_5_success"><![CDATA[Tilillesi hyvitettiin 50 ekstraenergiaa!]]></item>
+ <item name="messaging_systemMessage_5_error"><![CDATA[Tuotteet on jo tilattu tilillesi. Linkki ei enää ole voimassa!]]></item>
+ <item name="messaging_systemMessage_6_subject"><![CDATA[Jatka nyt: kuukaudeksi premium-edut huipputarjouksena]]></item>
+ <item name="messaging_systemMessage_6_body"><![CDATA[Terve pilotti,
+<br /><br />
+helpottaakseen alkuasi avaruuspilottina yhtiösi lahjoitti sinulle heti alkuun premium-edut kahdeksi viikoksi. Nämä premium-edut - kuten esimerkiksi aluksen ilmainen korjaus - eivät enää ole kauaa voimassa.
+<br /><br />
+Yhtiösi haluaa tukea urakehitystäsi edelleen, siksi sillä on sinulle ainutkertainen huipputarjous: Käytä premium-etuja vielä kuukauden verran absoluuttiseen polkuhintaan!
+<br /><br />
+Tämä tarjous on voimassa rajoitetun ajan. Käy äkkiä katsomassa: %LINK%
+<br /><br />
+Hyvälle yhteistyölle, pilotti!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_6_link"><![CDATA[KLIKKAA TÄSTÄ]]></item>
+ <item name="messaging_systemMessage_6_success"><![CDATA[Vaihda tarjoukseen?]]></item>
+ <item name="messaging_systemMessage_6_error"><![CDATA[Tarjous on jo käytetty. Linkki ei enää ole voimassa!]]></item>
+ <item name="messaging_follow_us"><![CDATA[SEURAA MEITÄ:]]></item>
+ <item name="messaging_informationtag_frauprotection"><![CDATA[DarkOrbitin työtekijät eivät koskaan kysy salasanaasi tai muita käyttäjätietojasi tai kehota rekisteröitymään muulla sivulla.]]></item>
+ <item name="messaging_systemMessage_7_subject"><![CDATA[Solar Clash 2012:n voittajat]]></item>
+ <item name="messaging_systemMessage_7_body"><![CDATA[Tervehdys avaruuspilotti!
+    <br /><br />
+Solar Clash 2012 oli täysi menestys. Nyt esittelemme voittajat:
+<br /><br />
+1. sija: %WINNER1%<br />
+2. sija: %WINNER2%<br />
+3. sija: %WINNER3%
+<br /><br />
+Hyvää yhteistyötä tulevaisuudessakin toivoen,
+    <br /><br />
+Yhtiöneuvosto]]></item>
+ <item name="messaging_systemMessage_8_subject"><![CDATA[Tärkeää! Flash-player-päivitys]]></item>
+ <item name="messaging_systemMessage_8_body"><![CDATA[Terve avaruuspilotti,
+<br /><br />
+kokeneena astronauttina tiedät tietenkin, kuinka tärkeää on aina pysyä ajan hermolla. Me tiedämme sen myös, ja siksi DarkOrbit siirtyy 11.12. syntymäpäivänsä kunniaksi Flash-playerin versioon 11.
+<br /><br />
+Sillä voit pelata DarkOrbitia koko näytössä, suorituskyky optimoidaan, ja monet muut ominaisuudet pääsevät oikeuksiinsa, mikä maksimoi hauskuuden galaksissa!
+<br /><br />
+Älä unohda päivittää Flash-player-versiotasi, jotta näkisit DarkOrbitin ennen kokemattoman loiston ja jotta yleensäkin voisit jatkaa pelaamista. Ole valmiina tulevaisuuteen!
+<br /><br />
+Seuraa linkkiä ja sinut johdatetaan suoraan uuteen Flash-player-versioon: <a href="http://get.adobe.com/flashplayer/" target="_blank">Download Flash-Player</a>
+<br /><br />
+Kiitos yhteistyöstä, pilotti!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_9_subject"><![CDATA[Umfrage]]></item>
+ <item name="messaging_systemMessage_9_body"><![CDATA[Hallo Space-Pilot,
+<br /><br />
+    hilf uns, Darkorbit zu verbessern und sichere Dir die Chance auf 10.000 Uridium!
+    Alles was Du tun musst ist, an unserer kurzen Umfrage teilzunehmen.
+    Klicke dazu folgenden Link: %SURVEYLINK%
+<br /><br />
+Auf gute Zusammenarbeit, Pilot!
+<br /><br />
+Der Firmenvorstand]]></item>
+ <item name="messaging_systemMessage_10_subject"><![CDATA[Varmasti ja nopeasti: palvelimen vaihto kädenkäänteessä!]]></item>
+ <item name="messaging_systemMessage_10_body"><![CDATA[Hei avaruuspilotti,
+<br /><br />
+palvelimen vaihto tehty helpoksi: Tulevaisuudessa voit vaihtaa DarkOrbit-instanssia <span class="breakingNewsHighlightBlue"><b>ilman monimutkaista ulos- ja sisäänkirjautumista</b></span>. Voit klikata palvelinvalintaa sivuston vasemmassa yläkulmassa ("koti" -painikkeen vieressä) ja <span class="breakingNewsHighlightBlue"><b>vaihtaa instanssia valonnopeudella</b></span>. Turvallinen kirjautuminen taattu! Ei turhaa edestakaisin ryntäilyä: Valitse nyt palvelimesi missä ja milloin haluat.
+<br /><br />
+Hyvälle yhteistyölle, pilotti!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_11_subject"><![CDATA[Kiitokset Razerilta]]></item>
+ <item name="messaging_systemMessage_11_body"><![CDATA[Hei avaruuspilotti,
+<br /><br />
+kiitos osallistumisestasi Jackpot Arenaan. Toivottavasti pidit hauskaa tapahtumassa! Pienenä huomionosoituksena on kumppanimme Razer (http://www.razerzone.com) tehnyt sinulle erikoistarjouksen.
+<br /><br />
+Varmista itsellesi ensimmäisestä minimirajan ylittävästä ostoksesta kaupanpäällisenä ilmainen Razer -huivi. Alta voit valita linkkisi sekä koodisi (koodi on voimassa 14.4.2013 saakka).
+<br /><br />
+USA: %%LINK1%% <span style="font-weight:bold">JACKPOTARENAUS</span> - min. 79 US$<br />
+Kanada: %%LINK2%% <span style="font-weight:bold">JACKPOTARENACA</span> - min. 79 CA$<br />
+Eurooppa: %%LINK3%% <span style="font-weight:bold">JACKPOTARENAEU</span> - min. 79 €<br />
+Iso-Britannia: %%LINK4%% <span style="font-weight:bold">JACKPOTARENAGB</span> - min. 69 £<br />
+<br /><br />
+Ilman sinunlaisiasi aktiivisia pilotteja menettäisi Jackpot Arena puolet vetovoimastaan. Nähdään seuraavalla kerralla!
+<br /><br />
+Yhtiön hallitus]]></item>
+ <item name="messaging_systemMessage_12_subject"><![CDATA[Botin käyttö havaittu]]></item>
+ <item name="messaging_systemMessage_12_body"><![CDATA[Hei avaruuspilotti,
+<br /><br />
+DarkOrbit-tilisi on suljettu kaikilla palvelimilla kolmen päivän ajaksi. Syynä tähän on se, että sinun on havaittu käyttäneen bottia. Lisäksi pilottiprofiilisi nollataan ja kaikki parannukset LF4-lasereihin ja SG3N-BO2-generaattoreihin poistetaan.
+<br /><br />
+Bottien käyttö on rekisteröitymisen yhteydessä hyväksymiesi DarkOrbitin käyttäjäehtojen mukaisesti kielletty. Väärinkäytösten jatkuessa tullaan tilisi sulkemaan <strong>lopullisesti</strong>.  
+<br /><br />
+DarkOrbit-tiimi]]></item>
+ <item name="messaging_systemMessage_13_subject"><![CDATA[Pilottinimi vaihdettu]]></item>
+ <item name="messaging_systemMessage_13_body"><![CDATA[Hei avaruuspilotti,
+<br><br>
+Tämänhetkinen pilottinimesi tällä palvelimella on <strong>%%NEWPILOTNAME%%</strong>. Käyttäjätunnuksesi pysyy samana.
+<br><br>
+Pilottinimesi vaihdettiin, koska tällä palvelimella on jo samaa pilottinimeä käyttävä pelaaja. Pilottinimeäsi voit vaihtaa halutessasi pilottiprofiilin toiminnolla "MUOKKAA PROFIILIA" tai klikkaamalla <a href="%%PILOTSHEETLINK%%">tätä linkkiä</a>.
+<br><br>
+DarkOrbit-tiimi]]></item>
+ <item name="messaging_clanMessage_acceptApply_subject"><![CDATA[Hakemuksesi klaaniin %%CLANTAG%% hyväksyttiin]]></item>
+ <item name="messaging_clanMessage_acceptApply_body"><![CDATA[Hei %%USERNAME%%,
+<br /><br />
+hakemuksesi klaaniin %%CLANNAME%% hyväksyttiin.
+<br /><br />
+Hyvää yhteistyötä, pilotti!]]></item>
+ <item name="messaging_clanMessage_declineApply_subject"><![CDATA[Hakemuksesi klaaniin %%CLANTAG%% hylättiin]]></item>
+ <item name="messaging_clanMessage_declineApply_body"><![CDATA[Hei %%USERNAME%%,
+<br /><br />
+valitettavasti hakemuksesi klaaniin %%CLANNAME%% hylättiin.
+<br /><br />
+Parempaa onnea tulevaisuudessa, pilotti!]]></item>
+ <item name="messaging_reCaptcha_msg_headline"><![CDATA[Recaptcha]]></item>
+ <item name="messaging_reCaptcha_msg_infotext"><![CDATA[Syötä kenttään alla olevat sanat. Tämä ikkuna näytetään, koska yksi tai useampi vastaanottaja ei kuulu kontakteihisi tai klaaniisi.]]></item>
+ <item name="messaging_reCaptcha_msg_button_send"><![CDATA[Lähetä]]></item>
+ <item name="messaging_reCaptcha_msg_button_cancel"><![CDATA[Peruuta]]></item>
+ <item name="messaging_systemMessage_14_subject"><![CDATA[Hyvitys pelitilin sulkemisesta]]></item>
+ <item name="messaging_systemMessage_14_body"><![CDATA[Hei %USERNAME%,
+<br><br>
+pahoittelemme tunnistusohjelmamme virheellisesti aiheuttamaa pelitilisi sulkemista. Olemme palauttaneet sinun sekä muiden vastaavaa kokeneiden pelaajien pelitilit välittömästi. Hyvityksenä aiheutuneesta harmista olemme kirjanneet tilillesi seuraavat edut:
+<br><br>
+<li>Kuukauden premiumpaketti kaikkine siihen kuuluvine etuineen.</li>
+<li>Maksuton Hades-portti (jos sinulla oli jo Hades-portti, saat tämän sijasta 500 ekstraenergiaa).</li>
+<li>DMG-01 -vahinkotehoste 48 tunnin käyttöajalla.</li>
+<li>1 000 UCB-100 -akkua, joiden avulla laserisi aiheuttavat nelinkertaisen vahingon.</li>
+<br>Toivotamme sinulle sattuneesta huolimatta menestyksekkäitä ja hauskoja pelihetkiä DarkOrbitin parissa.
+<br><br>
+DarkOrbit-tiimi]]></item>
+ <item name="msg_event_reward_arenaseason_subject"><![CDATA[Ultimate Battle Arenan kaudet]]></item>
+ <item name="msg_event_reward_arenaseason_booked"><![CDATA[Hei %USERNAME%,
+<br /><br />
+ja onnittelut! Sijoituit tämän Ultimate Battle Arena -kauden parhaiden joukkoon. Saat palkintosi, kun menet pelaamaan. Pääset paistattelemaan ihailevien sekä kateellisten katseiden alla ja varomaan haastajia!
+        <br /><br />
+DarkOrbit-tiimi]]></item>
+ <item name="msg_event_reward_arenaseason_deleted"><![CDATA[Hei %USERNAME%,
+<br /><br />
+ikävä kyllä et ole enää Ultimate Battle Arenan mestari. On siis aika ottaa titteli takaisin omiin nimiisi!
+        <br /><br />
+DarkOrbit-tiimi]]></item>
+ <item name="messaging_auctionMessage_1_subject"><![CDATA[Huutosi ylitettiin.]]></item>
+ <item name="messaging_auctionMessage_1_body"><![CDATA[Hei %USERNAME%,
+<br><br>
+Huutosi tuotteesta %ITEMNAME% (%SHORTITEMNAME%) on ylitetty. Krediitit on palautettu tilillesi.
+<br><br>
+DarkOrbit-tiimi]]></item>
+ <item name="messaging_auctionMessage_2_subject"><![CDATA[Tuote ostettu.]]></item>
+ <item name="messaging_auctionMessage_2_body"><![CDATA[Hei %USERNAME%,
+<br><br>
+Onnittelut! Huusit itsellesi tuotteen %ITEMNAME% (%SHORTITEMNAME%) hintaan %AMOUNT% krediittiä.
+<br><br>
+DarkOrbit-tiimi]]></item>
+</resource>

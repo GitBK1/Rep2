@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language key="dev">
+ <category name="">
+  <item name="btn_label_start"><![CDATA[ALOITUS]]></item>
+  <item name="btn_label_claim"><![CDATA[LUNASTA]]></item>
+  <item name="btn_label_loading"><![CDATA[LATAA]]></item>
+  <item name="btn_label_loadstarsystem"><![CDATA[LATAA TÄHTIJÄRJESTELMÄÄ]]></item>
+  <item name="login_bonus_panel_title"><![CDATA[PÄIVÄN KIRJAUTUMISBONUS]]></item>
+  <item name="login_bonus_item_headline"><![CDATA[Päivä %VALUE]]></item>
+  <item name="login_bonus_button_get_premium"><![CDATA[Hanki PREMIUM]]></item>
+  <item name="login_bonus_item_headline_premium"><![CDATA[PREMIUM-jäsenyydellä saat myös:]]></item>
+  <item name="login_bonus_item_premium_buybutton"><![CDATA[Osta PREMIUM nyt]]></item>
+  <item name="login_bonus_calendar_expires"><![CDATA[Kalenterin nollaamiseen %VALUE% päivä(ä)]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem"><![CDATA[PREMIUM-jäsenyytesi on oltava voimassa ennen 25. päivän tavallisen palkinnon keräämistä, jotta voit saada premium-tason palkinnon.]]></item>
+  <item name="login_bonus_tooltip_info_items"><![CDATA[Kerää päivittäinen palkintosi. Älä huoli, sillä et menetä edistymistäsi, vaikka sinulta jäisikin yksi päivä väliin.]]></item>
+  <item name="login_bonus_tooltip_info_premiumitem_deactivated"><![CDATA[Sinulla täytyy olla voimassa oleva PREMIUM-jäsenyys, ennen kuin voit kerätä palkinnon.]]></item>
+  <item name="login_booster_time_info"><![CDATA[h]]></item>
+  <item name="login_reward_amount_info"><![CDATA[x %VALUE%]]></item>
+  <item name="login_time_day_short"><![CDATA[pv]]></item>
+  <item name="login_time_hour_short"><![CDATA[t]]></item>
+  <item name="login_time_minute_short"><![CDATA[min]]></item>
+ </category>
+</language>

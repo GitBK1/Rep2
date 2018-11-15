@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="premium_extension_call_claim_1month_EUR"><![CDATA[Pidennä premium-etujasi 1 kuukaudella
+pilkkahintaan: %AMOUNT%&nbsp;€! Ilmaiset korjaukset, aikaedut, automaattiset 
+avut... Käytä etusi!<br>
+        <br>
+VAIN TÄÄLTÄ JA NYT: Premium-edut löytöhintaan!]]></item>
+ <item name="premium_extension_call_claim_1month_USD"><![CDATA[Pidennä premium-etujasi 1 kuukaudella
+pilkkahintaan: %AMOUNT%&nbsp;$! Ilmaiset korjaukset, aikaedut, automaattiset 
+avut... Käytä etusi!<br>
+        <br>
+VAIN TÄÄLTÄ JA NYT: Premium-edut löytöhintaan!]]></item>
+ <item name="premium_extension_call_claim_1month_GBP"><![CDATA[Pidennä premium-etujasi 1 kuukaudella
+pilkkahintaan: %AMOUNT%&nbsp;£! Ilmaiset korjaukset, aikaedut, automaattiset 
+avut... Käytä etusi!<br>
+        <br>
+VAIN TÄÄLTÄ JA NYT: Premium-edut löytöhintaan!]]></item>
+ <item name="premium_extension_1month_benefit1"><![CDATA[<strong>Käytä hyväksesi hintaedut ja alennukset</strong>]]></item>
+ <item name="premium_extension_1month_benefit2"><![CDATA[<strong>Ilmaiset alus- ja P.E.T.-korjaukset</strong>]]></item>
+ <item name="premium_extension_1month_benefit3"><![CDATA[<strong>Aikaetuja ja enemmän lastitilaa</strong>]]></item>
+ <item name="premium_extension_1month_benefit4"><![CDATA[<strong>Automaattiset jalostukset yms.</strong>]]></item>
+</resource>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="upsell_head_super_deal"><![CDATA[SUPERDIILI!]]></item>
+ <item name="upsell_head_special_offer"><![CDATA[ERITYISTARJOUS!]]></item>
+ <item name="upsell_head_limited_offer"><![CDATA[RAJOITETTU MÄÄRÄ!]]></item>
+ <item name="upsell_head_big_bargain"><![CDATA[TARJOUSPOMMI!]]></item>
+ <item name="upsell_head_exclusive_offer"><![CDATA[MAHTITARJOUS!]]></item>
+ <item name="upsell_head_price_blowout"><![CDATA[HINTARÄJÄHDYS!]]></item>
+ <item name="upsell_caption_1"><![CDATA[Voimapaketti ulosheittohintaan!]]></item>
+ <item name="upsell_caption_2"><![CDATA[Uridium-voima-pakkaus pilkkahintaan!]]></item>
+ <item name="upsell_caption_3"><![CDATA[Hinnat hunningolla!]]></item>
+ <item name="upsell_caption_4"><![CDATA[Erityispakkaus todella erityiseen hintaan!]]></item>
+ <item name="upsell_caption_5"><![CDATA[Action-pakkaukset tiukasti laskelmoiville]]></item>
+ <item name="upsell_call_pre_1"><![CDATA[Hanki nyt ja kohenna tiliäsi!]]></item>
+ <item name="upsell_hint_1"><![CDATA[Vain täällä! Muuten ei kaupassa saatavilla!]]></item>
+ <item name="upsell_hint_2"><![CDATA[Vain nyt ja vain täällä! Muuten ei kaupassa saatavilla!]]></item>
+ <item name="upsell_call_claim_10000_1"><![CDATA[Hanki nyt 10 000 uridiumia ja saat <span class="highlight_uridium_plus">kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_15000_1"><![CDATA[Hanki nyt 15 000 uridiumia ja <span class="highlight_uridium_plus">saat kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_25000_1"><![CDATA[Hanki nyt 25 000 uridiumia ja saat <span class="highlight_uridium_plus">kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_30000_1"><![CDATA[Hanki nyt 30 000 uridiumia ja saat <span class="highlight_uridium_plus">ilmaiseksi kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_40000_1"><![CDATA[Hanki nyt 40 000 uridiumia ja saat <span class="highlight_uridium_plus">kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_75000_1"><![CDATA[Hanki nyt 75 000 uridiumia ja saat <span class="highlight_uridium_plus">ilmaiseksi kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_150000_1"><![CDATA[Hanki nyt 150 000 uridiumia ja saat <span class="highlight_uridium_plus">ilmaiseksi kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_330000_1"><![CDATA[Hanki nyt 330 000 uridiumia ja saat <span class="highlight_uridium_plus">ilmaiseksi kaupan päälle:</span>]]></item>
+ <item name="upsell_call_claim_EUR_sub"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia %AMOUNT% sentillä ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_USD_sub"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia %AMOUNT% sentillä ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_GBP_sub"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia %AMOUNT% pennillä ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_EUR"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;€ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_USD"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;$ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_GBP"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;£ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_EUR_full"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;€ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_USD_full"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;$ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_claim_GBP_full"><![CDATA[<b>Uskollisuuspaketti sinulle:</b> Kiitokseksi uskollisuudestasi olemme paketoineet sinulle oman bonuspaketin! Osta nyt uridiumia hintaan %AMOUNT%&nbsp;£ ja varmista itsellesi tuotteita %URIDIUM% uridiumin arvosta ekstra-bonuksena - jotkut niistä ovat saatavilla vain täällä!]]></item>
+ <item name="upsell_call_hint_hh_mhh"><![CDATA[<b>Ps. Myös HH:n tai MHH:n aikana uridiumia tulee nyt enemmän!*</b>]]></item>
+ <item name="upsell_call_footer_1"><![CDATA[*Jos käytät tarjouksen Happy hourin tai Mega happy hourin aikana, saat jopa suhteessa enemmän uridiumia. Uskollisuustuotteita voit kuitenkin saada vain yllä osoitetun määrän.]]></item>
+ <item name="upsell_call_claim_75000_2"><![CDATA[Mahtavat 75 000 uridiumia sensaatiomaiseen hintaan - <span class="highlight_uridium_plus">vain sinulle!</span>]]></item>
+ <item name="upsell_call_claim_150000_2"><![CDATA[Mahtavat 150 000 uridiumia sensaatiomaiseen hintaan - <span class="highlight_uridium_plus">vain sinulle!</span>]]></item>
+ <item name="upsell_call_claim_330000_2"><![CDATA[Mahtavat 330 000 uridiumia sensaatiomaiseen hintaan - <span class="highlight_uridium_plus">vain sinulle!</span>]]></item>
+ <item name="upsell_call_claim_660000_2"><![CDATA[Mahtavat 660 000 uridiumia sensaatiomaiseen hintaan - <span class="highlight_uridium_plus">vain sinulle!</span>]]></item>
+ <item name="upsell_link_button_get_now"><![CDATA[Hanki heti!]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_750"><![CDATA[750 MCB-50 -ammusta]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_1250"><![CDATA[1250 MCB-50 -ammusta]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_2500"><![CDATA[2500 MCB-50 -ammusta]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_mcb-50_5000"><![CDATA[5000 MCB-50 -ammusta]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1000"><![CDATA[1000 kpl haluttuja UCB 100 -ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1250"><![CDATA[1250 kpl haluttuja UCB 100-ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_1500"><![CDATA[1500 kpl haluttuja UCB 100-ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2000"><![CDATA[2000 kpl haluttuja UCB 100-ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_ucb-100_2500"><![CDATA[2500 kpl haluttuja UCB 100 -ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_1000"><![CDATA[1000 kpl vahvoja RSB 75 -ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_2500"><![CDATA[2500 kpl vahvoja RSB 75 -ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_laser_rsb-75_6000"><![CDATA[6000 kpl vahvoja RSB 75 -ammuksia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_100"><![CDATA[100 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_200"><![CDATA[200 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_250"><![CDATA[250 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_500"><![CDATA[500 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_750"><![CDATA[750 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocket_plt-2021_1500"><![CDATA[1500 PLT 2021 -rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_150"><![CDATA[150 UBR-100-Hellstorm-rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_rocketlauncher_hstrm-01_400"><![CDATA[400 UBR-100-Hellstorm-rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_120"><![CDATA[120 DD-M-tuhomiinaa suora vahinko -efektillä]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_200"><![CDATA[200 DD-M-tuhomiinaa suora vahinko -efektillä]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_ddm-01_300"><![CDATA[300 DD-M-tuhomiinaa suora vahinko -efektillä]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_sabm-01_200"><![CDATA[200 SAB-M -kilpimiinaa]]></item>
+ <item name="upsell_item-description_1_ammunition_mine_empm-01_200"><![CDATA[200 EMP-M -paljastusmiinaa]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_pld-8_300"><![CDATA[300 PLD-8-rakettia]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_10"><![CDATA[10 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_25"><![CDATA[25 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_60"><![CDATA[60 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_150"><![CDATA[150 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_250"><![CDATA[250 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_ammunition_specialammo_emp-01_300"><![CDATA[300 EMP-purkausta]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_5"><![CDATA[5 korjausseteliä]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_10"><![CDATA[10 korjausseteliä]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_20"><![CDATA[20 korjausseteliä]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_45"><![CDATA[45 korjausseteliä]]></item>
+ <item name="upsell_item-description_1_currency_voucher_repair_shipdrone_65"><![CDATA[65 korjausseteliä]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_50"><![CDATA[50 ilmaishyppyä edistyneellä hyppy-CPU:lla]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_100"><![CDATA[100 ilmaishyppyä edistyneellä hyppy-CPU:lla]]></item>
+ <item name="upsell_item-description_1_currency_voucher_jump_ajp_150"><![CDATA[150 ilmaishyppyä edistyneellä hyppy-CPU:lla]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_10"><![CDATA[10 ekstra-energiaa]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_15"><![CDATA[15 ekstra-energiaa]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_50"><![CDATA[50 ekstra-energiaa]]></item>
+ <item name="upsell_item-description_1_currency_voucher_extra-energy_100"><![CDATA[100 ekstra-energiaa]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_100"><![CDATA[100 lokikorttia]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_250"><![CDATA[250 lokikorttia]]></item>
+ <item name="upsell_item-description_1_resource_logfiles_500"><![CDATA[500 lokikorttia]]></item>
+ <item name="upsell_item-description_1_booster_ep50_1d"><![CDATA[1 koko päiväksi 50% enemmän KP:itä KP-tehosteella]]></item>
+ <item name="upsell_item-description_1_booster_ep50_2d"><![CDATA[2 päiväksi 50% enemmän KP:itä KP-tehosteella]]></item>
+ <item name="upsell_item-description_1_booster_ep50_3d"><![CDATA[3 päiväksi 50% enemmän KP:itä KP-tehosteella]]></item>
+ <item name="upsell_item-description_1_booster_ep50_4d"><![CDATA[4 päiväksi 50% enemmän KP:itä KP-tehosteella]]></item>
+ <item name="upsell_item-description_1_booster_ep50_5d"><![CDATA[5 päiväksi 50% enemmän KP:itä KP-tehosteella]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_4"><![CDATA[4 XL-verho-CPU:ta, yhteensä 200 naamiointia]]></item>
+ <item name="upsell_item-description_1_equipment_extra_cpu_cl04k-xl_8"><![CDATA[8 XL-verho-CPU:ta, yhteensä 200 naamiointia]]></item>
+ <item name="upsell_item-description_1_premium_1w"><![CDATA[1 viikoksi kaikki premium-edut ilmaiseksi]]></item>
+ <item name="upsell_item-description_1_premium_2w"><![CDATA[2 viikoksi kaikki premium-edut ilmaiseksi]]></item>
+ <item name="upsell_item-description_1_premium_1m"><![CDATA[1 kuukaudeksi kaikki premium-edut ilmaiseksi]]></item>
+ <item name="upsell_item-description_1_premium_2m"><![CDATA[2 kuukaudeksi kaikki premium-edut ilmaiseksi]]></item>
+ <item name="upsell_offer_exception"><![CDATA[Muilla erikoistapahtumilla (esim. happy hour/mega happy hour) ei ole vaikutusta tähän tarjoukseen.]]></item>
+</resource>

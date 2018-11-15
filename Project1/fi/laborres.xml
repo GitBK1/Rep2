@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="labor_xtm_test_key"><![CDATA[XTM Test Key in the file laborres.xml]]></item>
+ <item name="labor_rohstoffe"><![CDATA[RAAKA-AINEET]]></item>
+ <item name="labor_intro"><![CDATA[Vetämällä ja pudottamalla voit helposti päivittää alustasi: vedä haluttu aine hiirellä haluamasi esineen päälle.]]></item>
+ <item name="labor_prometid"><![CDATA[PROMETID]]></item>
+ <item name="labor_duranium"><![CDATA[DURAMIUM]]></item>
+ <item name="labor_promerium"><![CDATA[PROMERIUM]]></item>
+ <item name="labor_items"><![CDATA[PÄIVITÄ TUOTE]]></item>
+ <item name="labor_laser"><![CDATA[LASERIT]]></item>
+ <item name="labor_raketen"><![CDATA[RAKETIT]]></item>
+ <item name="labor_antrieb"><![CDATA[MOOTTORIT]]></item>
+ <item name="labor_schild"><![CDATA[KILVET]]></item>
+ <item name="labor_txt_a"><![CDATA[Nostaa tulivoimaa 15%]]></item>
+ <item name="labor_txt_b"><![CDATA[Parantaa tehokkuutta 10%]]></item>
+ <item name="labor_txt_c"><![CDATA[Nostaa tulivoimaa 30% tai tehokkuutta 20%]]></item>
+ <item name="alert_head"><![CDATA[PROMERIUM-PÄIVITYS]]></item>
+ <item name="alert_txt"><![CDATA[Tätä raaka-ainetta päivitettäessä sille aiemmin tehdyt päivitykset poistuvat käytöstä.]]></item>
+ <item name="alert_line"><![CDATA[HUOMIO]]></item>
+ <item name="alert_upd"><![CDATA[PÄIVITÄ]]></item>
+ <item name="alert_abo"><![CDATA[PERUUTA]]></item>
+</resource>
