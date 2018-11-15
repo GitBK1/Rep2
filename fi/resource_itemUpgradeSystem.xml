@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="itemUpgrSyst_upgrDescr_left_head"><![CDATA[Askel 1]]></item>
+ <item name="itemUpgrSyst_upgrDescr_left_text"><![CDATA[Valitse tuote, jota haluat parantaa.]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_lasers"><![CDATA[Laserit]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_rocketLaunchers"><![CDATA[Raketinheittimet]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_shieldGenerators"><![CDATA[Kilpigeneraattorit]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_drones"><![CDATA[Droonit]]></item>
+ <item name="itemUpgrSyst_selectUpgradeItem_modules"><![CDATA[Moduulit]]></item>
+ <item name="itemUpgrSyst_selectItem_level"><![CDATA[Taso]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_head"><![CDATA[Askel 2]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_text"><![CDATA[Päätä, kuinka monta parannustehostetta haluat
+käyttää parannusyritykseen.
+    Jokainen tehoste parantaa mahdollisuutta onnistuneeseen parannusyritykseen
+<span class="highlight">5%</span>.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_center_choose"><![CDATA[Valitse kohdassa 1 tuote, jota haluat parantaa.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_head"><![CDATA[Askel 3]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_text"><![CDATA[Kun olet valinnut tuotteen ja
+tehosteiden määrän, voit aloittaa parannusyrityksen.]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_vouchers"><![CDATA[Parannussetelit:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_probability"><![CDATA[Parannuksen onnistumistodennäköisyys:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_costs"><![CDATA[Parannuskulut yhteensä:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damage"><![CDATA[Vahinko:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_shield"><![CDATA[Kilpibonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_damageShield"><![CDATA[Vahinko/kilpibonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_defm-1"><![CDATA[Poikkeutin-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_dmgm-1"><![CDATA[Osumapiste/tehoste-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_honm-1"><![CDATA[Osumapiste/tehoste-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_hulm-1"><![CDATA[Osumapiste-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-hr"><![CDATA[Osumapiste/vahinko-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-lr"><![CDATA[Osumapiste/vahinko-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ltm-mr"><![CDATA[Osumapiste/vahinko-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-la"><![CDATA[Osumapiste/vahinko-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_ram-ma"><![CDATA[Osumapiste/vahinko-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_repm-1"><![CDATA[Osumapiste/korjaus-bonus:]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_info_bonus_xpm-1"><![CDATA[Osumapiste/tehoste-bonus:]]></item>
+ <item name="itemUpgrSyst_right_upgradeButton"><![CDATA[Parannus]]></item>
+ <item name="itemUpgrSyst_right_upgrade_start_upper"><![CDATA[ALOITA PARANNUS]]></item>
+ <item name="itemUpgrSyst_right_upgrade_attempt_start_upper"><![CDATA[ALOITA PARANNUSYRITYS]]></item>
+ <item name="itemUpgrSyst_upgrDescr_right_headProgress"><![CDATA[Parannuksen eteneminen]]></item>
+ <item name="itemUpgrSyst_right_progressButton"><![CDATA[Eteneminen]]></item>
+ <item name="itemUpgrSyst_right_upgradeLogButton"><![CDATA[Parannus-loki]]></item>
+ <item name="itemUpgrSyst_right_upgradeCollectAllButton"><![CDATA[Kerää kaikki]]></item>
+ <item name="itemUpgrSyst_right_upgradeFinishAllButton"><![CDATA[Lopeta kaikki]]></item>
+ <item name="itemUpgrSyst_right_upgradeListInfo"><![CDATA[Parannusyritys %PERCENT%% valmis]]></item>
+ <item name="itemUpgrSyst_right_upgraded"><![CDATA[Parannus tasolta %LEVEL_OLD% tasolle %LEVEL_NEW%]]></item>
+ <item name="itemUpgrSyst_right_not_upgraded"><![CDATA[Parannusyritys epäonnistui]]></item>
+ <item name="itemUpgrSyst_history_update_module_success"><![CDATA[Moduulinparannus tasolle %NEW_LEVEL% onnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_module_fail"><![CDATA[Moduulinparannus tasolle %NEW_LEVEL% epäonnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_success"><![CDATA[Laserparannus tasolle %NEW_LEVEL% onnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_laser_fail"><![CDATA[Laserparannus tasolle %NEW_LEVEL% epäonnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_success"><![CDATA[Generaattoriparannus tasolle %NEW_LEVEL% onnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_shieldgenerator_fail"><![CDATA[Generaattoriparannus tasolle %NEW_LEVEL% epäonnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_success"><![CDATA[Raketinheitinparannus tasolle %NEW_LEVEL% onnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_rocketlauncher_fail"><![CDATA[Raketinheitinparannus tasolle %NEW_LEVEL% epäonnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_success"><![CDATA[Drooniparannus tasolle %NEW_LEVEL% onnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_drone_fail"><![CDATA[Drooniparannus tasolle %NEW_LEVEL% epäonnistui.]]></item>
+ <item name="itemUpgrSyst_history_update_complete_all"><![CDATA[Tuotteiden parannuksia tehty (%AMOUNT_SUCCESS% onnistui, %AMOUNT_FAIL% epäonnistui).]]></item>
+ <item name="itemUpgrSyst_balance_update_module"><![CDATA[Moduulinparannus-yritys tasolle %NEW_LEVEL% aloitettu.]]></item>
+ <item name="itemUpgrSyst_balance_update_laser"><![CDATA[Laser-parannusyritys tasolle %NEW_LEVEL% aloitettiin.]]></item>
+ <item name="itemUpgrSyst_balance_update_shieldgenerator"><![CDATA[Generaattori-parannusyritys tasolle %NEW_LEVEL% aloitettiin.]]></item>
+ <item name="itemUpgrSyst_balance_update_rocketlauncher"><![CDATA[Raketinheitin-parannusyritys tasolle %NEW_LEVEL% aloitettiin.]]></item>
+ <item name="itemUpgrSyst_balance_update_drone"><![CDATA[Drooni-parannusyritys tasolle %NEW_LEVEL% aloitettiin.]]></item>
+ <item name="itemUpgrSyst_help"><![CDATA[Voit antaa uudella parannusjärjestelmällä lasereillesi,
+kilpigeneraattoreillesi, raketinheittimillesi ja drooneillesi pysyvän bonuksen. <br></br>Kaikilla tuotteilla
+on 15 parannustasoa. Jokainen taso ja tuote pitää parantaa yksitellen.<br><br>
+Parannuksen onnistumiselle ei ole takeita, mutta voit vaikuttaa prosessiin
+parannustehosteilla. <br><br>Voit vaikuttaa parannustehosteiden määrään tuotteiden parannuksen kohdassa 2,
+jopa 100% onnistumistodennäköisyyteen saakka.]]></item>
+ <item name="itemUpgrSyst_attempt_start"><![CDATA[Tuotteen parannus aloitettiin.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_credits"><![CDATA[Tähän tuotteen parannukseen sinulla ei ole riittävästi krediittejä.]]></item>
+ <item name="itemUpgrSyst_attempt_start_fail_uridium"><![CDATA[Tähän tuotteen parannukseen sinulla ei ole riittävästi uridiumia.]]></item>
+ <item name="itemUpgrSyst_attempt_success"><![CDATA[Tuotteen parannus onnistui.]]></item>
+ <item name="itemUpgrSyst_attempt_fail"><![CDATA[Tuotteen parannus epäonnistui.]]></item>
+ <item name="itemUpgrSyst_ready_click"><![CDATA[Valmis - klikkaa tästä]]></item>
+ <item name="itemUpgrSyst_percent_value"><![CDATA[%VALUE%%]]></item>
+ <item name="itemUpgrSyst_minute_value"><![CDATA[%VALUE% minuutti(a)]]></item>
+ <item name="itemUpgrSyst_upgrDescr_maxUpgradeHint"><![CDATA[* Maksimiparannustaso on %MAX_LEVEL%]]></item>
+</resource>

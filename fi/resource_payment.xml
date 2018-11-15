@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="payment_starter_packs_headline"><![CDATA[Aloituspaketit]]></item>
+ <item name="payment_starter_packs_headline_new"><![CDATA[Aloituspakkaukset]]></item>
+ <item name="payment_starter_packs_text"><![CDATA[Jäätkö aina ristituleen? Hanki tämä lyömätön tarjous... ja lyö takaisin!]]></item>
+ <item name="payment_premium_members_headline"><![CDATA[Premium-jäsenet]]></item>
+ <item name="payment_premium_members_text"><![CDATA[Kunnianhimoisten pilottien pakkohankinta. Hallitse avaruutta!]]></item>
+ <item name="payment_advantage_packs_headline"><![CDATA[Etupaketit]]></item>
+ <item name="payment_advantage_packs_headline_new"><![CDATA[Säästöpaketit]]></item>
+ <item name="payment_advantage_packs_text"><![CDATA[Nopeammin, kovemmin, tehokkaammin. Sinulle ei ala kukaan ryttyillä!]]></item>
+ <item name="payment_equipment_packs_headline"><![CDATA[Varustepaketit]]></item>
+ <item name="payment_deal_packs_headline"><![CDATA[Parhaat tarjoukset]]></item>
+ <item name="payment_equipment_packs_text"><![CDATA[Tuli irti! Opeta vastustajasi pelkäämään - mahtavilla aseilla ja teräksenkovilla suojakilvillä.]]></item>
+ <item name="payment_get_uridium"><![CDATA[Hanki uridiumia]]></item>
+ <item name="payment_earn_uridium"><![CDATA[Cash for action]]></item>
+ <item name="payment_lottery_text_title"><![CDATA[KAPSELIARVONTA]]></item>
+ <item name="payment_lottery_text_description"><![CDATA[Kapseleita voi saada kolmella tavalla. Tuhoa HITAC-NC tai kukista sen Minionit ja hae palasia sana-arvoitukseen. Jos haluat, voit myös ostaa uusia kapseleita maksualueelta.
+Uridium-sivulla voit muuttaa kapselit arvoiksi arvontaan. Klikkaa sitä varten muuntajan alla olevaa painiketta. Jos haluat muuttaa useamman kuin yhden kapselin arvoiksi, voit vaihtaa määrää muuntajan valikossa.]]></item>
+ <item name="payment_lottery_text_remaincapsules"><![CDATA[Jäljellä olevat kapselit]]></item>
+ <item name="payment_lottery_button_payment"><![CDATA[Osta lisää kapseleita]]></item>
+ <item name="payment_lottery_text_sunconverter"><![CDATA[Auringon- muuntaja]]></item>
+ <item name="payment_lottery_text_moonconverter"><![CDATA[Kuun- muuntaja]]></item>
+ <item name="payment_lottery_text_frostconverter"><![CDATA[Pakkasmuuntaja]]></item>
+ <item name="payment_lottery_text_hitacconverter"><![CDATA[Kapselimuuntaja]]></item>
+ <item name="payment_lottery_text_converter"><![CDATA[Kapselimuuntaja]]></item>
+ <item name="payment_lottery_text_convert"><![CDATA[Muuta]]></item>
+ <item name="payment_lottery_select_defaulttext"><![CDATA[Valitse määrä]]></item>
+ <item name="payment_lottery_text_log_head"><![CDATA[Pikapalkintoloki]]></item>
+ <item name="payment_lottery_text_log_description"><![CDATA[Saatavilla myös lokikirjassa]]></item>
+ <item name="payment_lottery_text_log_text_capsules"><![CDATA[%amount% muutettua kapselia]]></item>
+ <item name="payment_lottery_text_disclaimer"><![CDATA[Arvonnasta poissulkeminen: Bigpointin työntekijät sekä mahdolliset yhteistyökumppanit ja heidän lähiomaisensa eivät saa osallistua arvontaan. Bigpoint pidättää oikeuden evätä osallistujan osallistumisoikeuden arvontaan, jos osallistuja rikkoo osallistumisehtoja. Arvontaan osallistuminen evätään myös henkilöiltä, jotka käyttävät ohjelmistoja tai muita keinoja hankkiakseen epäreilua etua. Tarvittaessa järjestäjällä on oikeus mitätöidä palkinnot.<br>Lisäksi pelaajat Italiasta, Brasiliasta ja joistakin USA:n osavaltioista eivät saa osallistua fyysisten palkintojen arvontoihin.]]></item>
+ <item name="payment_lottery_text_dialog_nocapsules"><![CDATA[Sinulla ei ole muutettavia kapseleita. Voit hankkia niitä lisää maksuosiosta: %LINK_START%Osta lisää kapseleita%LINK_END%]]></item>
+ <item name="payment_lottery_tooltip_moonconverter"><![CDATA[Kuunmuuntajassa voit muuttaa kapseleita arvoiksi, joilla osallistut pelipalkintojen arvontaan.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter"><![CDATA[Pakkasmuuntajassa voit muuntaa kapselit kupongeiksi, joilla voit osallistua palkintojen arvontaan.]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter"><![CDATA[Kapselimuuntajassa voit muuntaa kapselit kupongeiksi, joilla osallistut mahtavien palkintojen arvontaan.]]></item>
+ <item name="payment_lottery_tooltip_sunconverter"><![CDATA[Auringonmuuntajassa voit muuttaa kapseleita arvoiksi, joilla osallistut hienojen esinepalkintojen arvontaan.]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country"><![CDATA[Valitettavasti maassasi ei voi osallistua yhteistyökumppaniarvontaan.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_sunconverter"><![CDATA[Käytit kapselisi auringonmuuntajassa.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_moonconverter"><![CDATA[Käytit kapselisi kuunmuuntajassa.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_frostconverter"><![CDATA[Käytit onnistuneesti kapselisi pakkasmuuntajassa.]]></item>
+ <item name="partnerPromo_lottery_capsules_converted_hitacconverter"><![CDATA[Käytit onnistuneesti kapselisi kapselimuuntajassa.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header"><![CDATA[Auringonmuuntajan arvontavoitot]]></item>
+ <item name="partnerPromo _popup_prizes_antec_teaser"><![CDATA[TEASER]]></item>
+ <item name="partnerPromo _popup_prizes_antec_content"><![CDATA[Nyt voit voittaa auringonmuuntajasta hienoja palkintoja. Muuttaessasi kapselisi arvoiksi aurinkomuuntajassa, saat ainutlaatuisen tilaisuuden voittaa upouusi <span class="breakingNewsHighlightBlue"><b>SCHENKER S413 Slim Gaming Notebook </b></span>-peliläppärin. Lisäksi arvomme vielä yli 50 muuta upeaa ROCCAT™ -laitepalkintoa. Huom! Arvonta ei ole palvelinkohtainen vaan koskee koko DarkOrbitia. (Kuvan tuote voi poiketa palkinnosta.)]]></item>
+ <item name="partnerPromo _popup_prizes_antec_footer"><![CDATA[FOOTER]]></item>
+ <item name="payment_lottery_tooltip_sunconverter_default"><![CDATA[Aurinkomuuntajassa voit muuntaa kapselisi arvoseteliarvonnan arvoiksi.]]></item>
+ <item name="payment_lottery_tooltip_moonconverter_default"><![CDATA[Kuumuuntajassa voit muuntaa kapselisi peliarvoiksi, joilla voit voittaa pelin tavaroita kuten miljoona yksikköä uridiumia tai LF4-laserpaketin.]]></item>
+ <item name="payment_lottery_tooltip_frostconverter_default"><![CDATA[Muunna kapselisi pakkasmuuntajassa kupongeiksi, joilla voit osallistua Hitac-arvontaan. Sinua odottavat seuraavat viileät palkinnot: jääportaali, uusia arktisia alusmalleja, LF4-laserpaketteja, miljoona uridiumia ja paljon muuta!]]></item>
+ <item name="payment_lottery_tooltip_hitacconverter_default"><![CDATA[Muuta kapselit kapselimuuntajalla lipuiksi Hitac-arvontaan. Sinua odottaa upeita palkintoja, kuten Lf-4-magmaporia, LF-4-laserpakkauksia, indoktriinista öljyä, Inferno-olemuksia ja kokonainen kuukausi premiumia!]]></item>
+ <item name="payment_lottery_text_description_default"><![CDATA[Kapseleita voi saada kolmella tavalla. Kukista joko emoalus "HITAC 2.0", tai tuhoa tämän apualuksia ja poimi sirpaleita sana-arvoitukseen. Jos haluat, voit myös ostaa uusia kapseleita maksualueelta. URIDIUM-sivulla voit muuttaa kapselisi arvoiksi aurinko- ja kuuarvontoihin. Klikkaa sitä varten muuntajan alla olevaa painiketta. Jos haluat muuttaa useamman kuin yhden kapselin arvoiksi, voit vaihtaa määrää muuntajan valikossa.]]></item>
+ <item name="payment_lottery_text_description_frostevent"><![CDATA[Voit hankkia kapseleita kolmella eri tavalla: tuhoa Hitacien emoalus, kukista sen kätyrit ja kerää itsellesi tarvittavat kirjaimet tapahtumasanaa varten — tai mene sieltä mistä aita on matalin ja osta niitä kaupasta! Uridium-osiossa voit pudottaa kapselisi pakkasmuuntajaan ja saada itsellesi kuponkeja vastalahjaksi. Paina vain muuntajan alapuolella olevaa painiketta. Mikäli haluat muuntaa samalla useamman kapselin, onnistuu se siihen tarkoitetussa valikossa.]]></item>
+ <item name="payment_lottery_text_description_hitacevent"><![CDATA[Voit hankkia kapseleita kolmella eri tavalla: tuhoa Hitac -emoalus, kukista sen kätyrit ja kerää itsellesi tarvittavat kirjaimet tapahtumasanaa varten — tai mene sieltä, mistä aita on matalin, ja osta niitä kaupasta! Uridium-osiossa voit pudottaa kapselisi kapselimuuntajaan ja saada vastalahjaksi kuponkeja. Paina vain muuntajan alapuolella olevaa painiketta. Mikäli haluat muuntaa samalla useamman kapselin, onnistuu se siihen tarkoitetussa valikossa.]]></item>
+ <item name="partnerPromo_popup_prizes_antec_header_default"><![CDATA[Arpajaisvoitto]]></item>
+ <item name="partnerPromo_popup_prizes_content_default"><![CDATA[<b>Voita hienoja palkintoja aurinkomuuntajassa!</b><br><br>
+Jos muutat kapselisi arvoiksi Aurinkomuuntajassa, voit voittaa erilaisia PC-tekniikkatuotteita:<br><br>
+<ul>
+<li>1x SCHENKER S413 Slim Gaming Notebook</li>
+<li>5x ROCCAT™ Ryos MK Glow -näppäimistö</li>
+<li>5x ROCCATTM Kone XTD -hiiri</li>
+<li>5x ROCCATTM Kave 5.1 -kuulokkeet</li>
+<li>20x ROCCATTM Isku -näppäimistö</li>
+<li>20x ROCCATTM Kone Pure -hiiri</li>
+<li>… ja paljon muuta!</li>
+	</ul>
+<br><br>
+<b>Huomio:</b> Arvonta ei ole palvelinkohtainen vaan koskee koko DarkOrbitia (Kuvan tuotteet saattavat erota palkinnoista.)<br><br><br>
+<b>Voita hienoja palkintoja kuumuuntajassa!</b><br><br>
+Jos muutat kapselisi arvoiksi kuumuuntajassa, sinulla on mahdollisuus voittaa palvelinkohtaisia pelipalkintoja:<br><br>
+<ul>
+<li>1 x 1 000 000 yksikköä uridiumia</li>
+<li>1 x 30 LF4 -laseria kaikin parannuksin</li>
+<li>2 x 10 LF4 -laseria kaikin parannuksin</li>
+<li>5 x 5 LF4 -laseria kaikin parannuksin</li>
+<li>1 x 30 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>2 x 10 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>5 x 5 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>5 x 50 000 UCB-100 -laserammusta</li>
+<li>20 x 100 000 yksikköä uridiumia</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_darkorbit"><![CDATA[<b>Voita hienoja palkintoja aurinkomuuntajassa!</b><br><br>
+Muuntamalla kapselisi arvoiksi aurinkomuuntajassa saat mahdollisuuden voittaa ostossetelejä yhteen suurimmista verkkokaupoista:<br><br>
+<ul>
+<li>1 x 1 500 € arvoinen ostosseteli</li>
+<li>3 x 350 € arvoinen ostosseteli</li>
+<li>11 x 150 € arvoinen ostosseteli</li>
+</ul>
+<br><br>
+<b>Huomio:</b>Arvonta ei ole palvelinkohtainen vaan koskee koko DarkOrbitia. (Tuotekuvat saattavat erota palkinnoista.)<br><br><br>
+<b>Voita hienoja palkintoja kuumuuntajassa!</b><br><br>
+Jos muutat kapselisi arvoiksi kuumuuntajassa, sinulla on mahdollisuus voittaa palvelinkohtaisia pelipalkintoja:<br><br>
+<ul>
+<li>1 x 1 000 000 yksikköä uridiumia</li>
+<li>1 x 30 LF4 -laseria kaikin parannuksin</li>
+<li>2 x 10 LF4 -laseria kaikin parannuksin</li>
+<li>5 x 5 LF4 -laseria kaikin parannuksin</li>
+<li>1 x 30 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>2 x 10 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>5 x 5 SG3N-B02 -kilpigeneraattoria kaikin parannuksin</li>
+<li>5 x 50 000 UCB-100 -laserammusta</li>
+<li>20 x 100 000 yksikköä uridiumia</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_frost"><![CDATA[<b>Voita pakkasmuuntajasta upeita palkintoja!</b><br><br> Sinulla on mahdollisuus voittaa astronomisen viileitä palkintoja tehtyäsi kapseleistasi kuponkeja pakkasmuuntajassa. Seuraavat palkinnot ovat voitettavissa kaikilla palvelimilla erikseen:<br><br>
+<ul>
+<li>1 x miljoona uridiumia</li>
+<li>20 x 100 000 uridiumia</li>
+<li>1 x 30 täysin paranneltua LF4-laseria</li>
+<li>2 x 10 täysin paranneltua LF4-laseria</li>
+<li>5 x 5 täysin paranneltua LF4-laseria</li>
+<li>1 x 30 täysin paranneltua SG3N-B02-kilpigeneraattoria</li>
+<li>2 x 10 täysin paranneltua SG3N-B02-kilpigeneraattoria</li>
+<li>5 x 5 täysin paranneltua SG3N-B02-kilpigeneraattoria</li>
+<li>5 x 50 000 UCB-100-laserammusta</li>
+<li>10 x 1 Arctic Spectrum</li>
+<li>10 x 1 Arctic Sentinel</li>
+<li>10 x 1 Arctic Venom</li>
+<li>10 x 1 Arctic Nostromo Ambassador</li>
+<li>10 x 1 Arctic Pusat</li>
+<li>10 x 1 Arctic Vengeance Lightning</li>
+<li>10 x 1 jääportaali</li>
+</ul>]]></item>
+ <item name="partnerPromo_popup_prizes_content_hitac"><![CDATA[<b>Voita upeita palkintoja kapselimuuntajalla!</b><br><br> Kun lunastat lottolippuja kapseleilla kapselimuuntajan avulla, saat mahdollisuuden voittaa tähtitieteellisen tyylikkäitä palkintoja. Voit voittaa kunkin seuraavista jokaisella eri palvelimella:<br><br> <ul> <li>1 palkinto - 30 LF-4-magmaporaa</li> <li>2 palkintoa - 10 LF-4-magmaporaa</li> <li>5 palkintoa - 5 LF-4-magmaporaa</li> <li>1 palkinto - 30 x tason 16 LF-4</li> <li>2 palkintoa - 10 x tason 16 LF-4</li> <li>5 palkintoa - 5 x tason 16 LF-4</li> <li>3 palkintoa - 1 350 indoktriinista ölyjä</li> <li>20 palkintoa - 450 indoktriinista ölyjä</li> <li>20 palkintoa - 1 kuukauden Premium</li> <li>5 palkintoa - täysi Inferno-sarja</li> </ul>]]></item>
+ <item name="partnerPromo_lottery_not_allowed_country_default"><![CDATA[Valitettavasti et voi osallistua tavarapalkintoarvontaan maassasi.]]></item>
+ <item name="payment_to_banking"><![CDATA[Maksuosioon]]></item>
+ <item name="payment_to_banking_upper"><![CDATA[MAKSUOSIOON]]></item>
+ <item name="payment_to_deals"><![CDATA[TARJOUKSIIN]]></item>
+ <item name="subscription_uridium_start_xl_history"><![CDATA[Uridium-etupaketti XL tilattu]]></item>
+ <item name="subscription_rebate_start_xl_history"><![CDATA[Alennusetupaketti XL tilattu]]></item>
+ <item name="subscription_double_start_xl_history"><![CDATA[Tuplaajaetupaketti XL tilattu]]></item>
+ <item name="subscription_uridium_start_normal_history"><![CDATA[Uridium-etupaketti tilattu]]></item>
+ <item name="subscription_rebate_start_normal_history"><![CDATA[Alennusetupaketti tilattu]]></item>
+ <item name="subscription_double_start_normal_history"><![CDATA[Tuplaajaetupaketti tilattu]]></item>
+ <item name="subscription_uridium_ends_xl_history"><![CDATA[Uridium-etupaketti XL:n tilaus peruttu]]></item>
+ <item name="subscription_rebate_ends_xl_history"><![CDATA[Alennusetupaketti XL:n tilaus peruttu]]></item>
+ <item name="subscription_double_ends_xl_history"><![CDATA[Tuplaajaetupaketti XL:n tilaus peruttu]]></item>
+ <item name="subscription_uridium_ends_normal_history"><![CDATA[Uridium-etupaketin tilaus peruttu]]></item>
+ <item name="subscription_rebate_ends_normal_history"><![CDATA[Alennusetupaketin tilaus peruttu]]></item>
+ <item name="subscription_double_ends_normal_history"><![CDATA[Tuplaajaetupaketin tilaus peruttu]]></item>
+ <item name="subscription_uridium_booking_history"><![CDATA[Uridium-etu tilattu]]></item>
+ <item name="subscription_rebate_booking_history"><![CDATA[Alennusetu jatkettu automaattisesti]]></item>
+ <item name="subscription_double_booking_history"><![CDATA[Tuplaajaetu tilattu]]></item>
+ <item name="payment_hl_1_new"><![CDATA[Tuplaajaetupaketti:]]></item>
+ <item name="payment_teaser_1_new"><![CDATA[Kaksin aina kaunihimpi. Kaikki bonuslaatikoista löytämäsi saalis tuplataan.]]></item>
+ <item name="payment_hl_2_new"><![CDATA[Uridium-etupaketti:]]></item>
+ <item name="payment_teaser_2_new"><![CDATA[Sinulla on voitoistasi mustaa valkoisella, ja vihollisesi näkevät vain punaista.<br />Laitamme tilillesi joka viikko 10000 uridiumia.]]></item>
+ <item name="payment_hl_3_new"><![CDATA[Alennusetupaketti:]]></item>
+ <item name="payment_teaser_3_new"><![CDATA[Enemmän halvemmalla: Tällä alennusetupaketilla saat 25% alennusta jokaisesta uridiumilla ostamastasi tuotteesta.]]></item>
+ <item name="payment_hl_4_new"><![CDATA[Aloituspakkaukset - Vengeance, Leonov ja Goliath:]]></item>
+ <item name="payment_teaser_4_new"><![CDATA[Oletko uusi DarkOrbitissa? Nappaa tämä tarjous, säästä jopa 30% ja hallitse avaruutta!]]></item>
+ <item name="payment_hl_5_new"><![CDATA[Säästöpakkaukset - Haastaja, Pro ja Eliitti:]]></item>
+ <item name="payment_teaser_5_new"><![CDATA[Oletko penninvenyttäjä ja lasket kaiken viimeisen päälle? Käytä tämä tarjous hyväksesi ja säästät jopa yli 50%!]]></item>
+ <item name="abo_uridium_new"><![CDATA[Uridium Bonus credit]]></item>
+ <item name="promo_pepsi_text_top"><![CDATA[Please enter your promotional code:]]></item>
+ <item name="promo_pepsi_success"><![CDATA[Code successfully redeemed!]]></item>
+ <item name="promo_pepsi_error_1"><![CDATA[An error occurred.<br />Please try again later!]]></item>
+ <item name="promo_pepsi_error_2"><![CDATA[An error occurred.<br />Your account is now locked for 1 hour. Please try again later!]]></item>
+ <item name="promo_pepsi_error_504"><![CDATA[An error occurred.<br />You have entered multiple invalid codes. The system is now temporarily locked!]]></item>
+ <item name="promo_pepsi_error_509"><![CDATA[An error occurred.<br />The code you entered is not valid!]]></item>
+ <item name="promo_pepsi_error_510"><![CDATA[An error occurred.<br />The code you entered has already been redeemed!]]></item>
+ <item name="promo_pepsi_package_redeemed"><![CDATA[Pepsi Promo Package redeemed!]]></item>
+ <item name="preroll_watched"><![CDATA[Palkkio Pre-Roll -mainoksesta saatu!]]></item>
+ <item name="preroll_csi"><![CDATA[Bonus osallistumisesta kyselyyn saatu!]]></item>
+ <item name="preroll_payment_link"><![CDATA[Poista mainokset pientä maksua vastaan!]]></item>
+ <item name="preroll_hint"><![CDATA[Katso mainos kokonaan niin saat lopuksi 100 uridiumia!]]></item>
+ <item name="galaxyGate_cinema_watched"><![CDATA[Sait ekstraenergiaa katsottuasi elokuvan!]]></item>
+ <item name="payment_targeted_deal_text"><![CDATA[Nappaa itsellesi tämä mahtava tarjous nyt!]]></item>
+</resource>

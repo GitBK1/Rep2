@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="auction_bid_invalid"><![CDATA[Huuto ei voimassa]]></item>
+ <item name="auction_bid_credits_to_little"><![CDATA[Krediittisi eivät riitä tähän huutoon.]]></item>
+ <item name="auction_bid_minBid_not_reached"><![CDATA[Huutosi on liian matala. Uuden huutosi täytyy olla vähintään %MINIMUM_BID% korkeampi kuin edellinen huutosi.]]></item>
+ <item name="auction_bid_saved"><![CDATA[Huuto annettu]]></item>
+ <item name="auction_item_package"><![CDATA[(%AMOUNT% yksikköä)]]></item>
+ <item name="auction_my_bid"><![CDATA[Huutoni:]]></item>
+ <item name="auction_error_generic"><![CDATA[Tapahtui virhe. Yritä uudelleen.]]></item>
+ <item name="auction_quantityManager_laser"><![CDATA[<span id="auction_amount">%AMOUNT%</span> laserammusta<br>= <span id="auction_price">%PRICE%</span> uridiumia]]></item>
+ <item name="auction_quantityManager_rocket"><![CDATA[<span id="auction_amount">%AMOUNT%</span> rakettia<br>= <span id="auction_price">%PRICE%</span> uridiumia]]></item>
+ <item name="auction_quantityManager_mine"><![CDATA[<span id="auction_amount">%AMOUNT%</span> miinaa<br>= <span id="auction_price">%PRICE%</span> uridiumia]]></item>
+ <item name="auction_quantityManager_logfile"><![CDATA[<span id="auction_amount">%AMOUNT%</span> lokikorttia<br>= <span id="auction_price">%PRICE%</span> uridiumia]]></item>
+ <item name="auction_quantityManager_ore"><![CDATA[<span id="auction_amount">%AMOUNT%</span> Ores<br>= <span id="auction_price">%PRICE%</span> Uridium]]></item>
+ <item name="auction_buy_amount_invalid"><![CDATA[Epäkelpo määrä]]></item>
+ <item name="auction_book_back_money"><![CDATA[Hyvitys huudosta (%ITEMNAME%)]]></item>
+ <item name="auction_filter"><![CDATA[Suodatin]]></item>
+ <item name="auction_filter_battery"><![CDATA[Paristot]]></item>
+ <item name="auction_filter_rocket"><![CDATA[Raketit ja miinat]]></item>
+ <item name="auction_filter_generator"><![CDATA[Moottorit]]></item>
+ <item name="auction_filter_extra"><![CDATA[Ekstrat]]></item>
+ <item name="auction_filter_weapon"><![CDATA[Aseet]]></item>
+ <item name="auction_filter_ship"><![CDATA[Alukset]]></item>
+ <item name="auction_filter_booster"><![CDATA[Tehosteet]]></item>
+ <item name="auction_filter_shipdesign"><![CDATA[Designit]]></item>
+ <item name="auction_filter_module"><![CDATA[Moduulit]]></item>
+ <item name="auction_filter_special"><![CDATA[Erikoisuudet]]></item>
+ <item name="auction_filter_history"><![CDATA[Valitse huutokauppa]]></item>
+ <item name="auction_title"><![CDATA[HUUTOKAUPPAKESKUS]]></item>
+ <item name="auction_type_hour"><![CDATA[TUNNEITTAIN]]></item>
+ <item name="auction_type_day"><![CDATA[PÄIVITTÄIN]]></item>
+ <item name="auction_type_week"><![CDATA[VIIKOITTAIN]]></item>
+ <item name="auction_current"><![CDATA[HUUTOKAUPPA]]></item>
+ <item name="auction_mybids"><![CDATA[OMAT HUUTONI]]></item>
+ <item name="auction_history"><![CDATA[HISTORIA]]></item>
+ <item name="auction_countdown"><![CDATA[Huutokaupan päättymiseen]]></item>
+ <item name="auction_choose"><![CDATA[Valitse huutokauppa]]></item>
+ <item name="auction_winner"><![CDATA[Voittaja]]></item>
+ <item name="auction_price"><![CDATA[Hinta]]></item>
+ <item name="auction_place_bid"><![CDATA[HUUDA]]></item>
+ <item name="auction_buy_instant"><![CDATA[OSTA HETI]]></item>
+ <item name="auction_buy_instant_invalid"><![CDATA[Tätä tuotetta et voi valitettavasti ostaa heti.]]></item>
+ <item name="auction_ttip_bid"><![CDATA[Huuda nyt]]></item>
+ <item name="auction_ttip_bid_disabled"><![CDATA[Valitse tuote ennen huutoa.]]></item>
+ <item name="auction_ttip_buy"><![CDATA[Osta heti uridiumilla]]></item>
+ <item name="auction_ttip_buy_disabled"><![CDATA[Valitse ensin tuote.]]></item>
+ <item name="auction_ttip_buy_permitted"><![CDATA[Tämän tuotteen voit ostaa vain huutamalla.]]></item>
+ <item name="auction_item_name"><![CDATA[Tuotteen nimi]]></item>
+ <item name="auction_item_type"><![CDATA[Tyyppi]]></item>
+ <item name="auction_item_highest"><![CDATA[Eniten huutanut]]></item>
+ <item name="auction_item_current"><![CDATA[Huuto]]></item>
+ <item name="auction_item_yours"><![CDATA[Sinun huutosi]]></item>
+ <item name="auction_item_instant"><![CDATA[Osta heti]]></item>
+ <item name="auction_item_winner"><![CDATA[Ostaja]]></item>
+ <item name="auction_bid_low"><![CDATA[Huutosi oli valitettavasti liian matala.]]></item>
+ <item name="auction_bid_nobids"><![CDATA[Et ole vielä jättänyt huutoa.]]></item>
+ <item name="auction_bid_captcha"><![CDATA[Syötä oikea Captcha -koodi ennen huutosi jättämistä.]]></item>
+ <item name="auction_bid_toofast"><![CDATA[Huomio, olet huutanut useita tuotteita liian nopeasti.]]></item>
+ <item name="auction_bid_characters"><![CDATA[Summa voi sisältää vain numeroita (ilman pisteitä & pilkkuja).]]></item>
+ <item name="auction_enable_mail"><![CDATA[Ota vahvistusviestit käyttöön.]]></item>
+ <item name="auction_disable_mail"><![CDATA[Poista vahvistusvietit käytöstä.]]></item>
+ <item name="auction_mail_label"><![CDATA[Vahvistusviesti]]></item>
+</resource>

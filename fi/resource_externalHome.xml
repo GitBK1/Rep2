@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="login_serverlist_hint"><![CDATA[Valitse palvelin, jolla haluaisit nyt pelata:]]></item>
+ <item name="footer_support"><![CDATA[Tuki]]></item>
+ <item name="abortInstanceSelection"><![CDATA[keskeytä]]></item>
+</resource>

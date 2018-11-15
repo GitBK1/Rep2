@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+ <item name="clan_hl_clan_gruenden"><![CDATA[Perusta klaani]]></item>
+ <item name="clan_hl_mitteilung_versenden"><![CDATA[Lähetä viesti]]></item>
+ <item name="clan_hl_open_requests"><![CDATA[Avaa pyyntö]]></item>
+ <item name="clan_hl_diplo_antrag"><![CDATA[Diplomatiapyyntö]]></item>
+ <item name="clan_hl_diplo_beantragen"><![CDATA[Suorita diplomatiapyyntö]]></item>
+ <item name="clan_hl_anfragen"><![CDATA[Pyyntö]]></item>
+ <item name="clan_hl_clan_diplomatie"><![CDATA[Klaanidiplomatia]]></item>
+ <item name="clan_hl_bewerbung"><![CDATA[Hakemus]]></item>
+ <item name="clan_hl_clan_mitglieder"><![CDATA[Klaanijäsenet]]></item>
+ <item name="clan_hl_steuersatz"><![CDATA[Veroprosentti]]></item>
+ <item name="clan_hl_clanrechte"><![CDATA[Klaanioikeudet]]></item>
+ <item name="clan_hl_claninformationen"><![CDATA[Klaanitiedot]]></item>
+ <item name="clan_hl_clan_info"><![CDATA[Klaanitiedot]]></item>
+ <item name="clan_hl_systemnachricht"><![CDATA[Järjestelmäviesti]]></item>
+ <item name="clan_hl_auszahlungen"><![CDATA[Maksut]]></item>
+ <item name="clan_hl_transaktionen"><![CDATA[Siirrot]]></item>
+ <item name="clan_hl_clan_konto"><![CDATA[Klaanitili]]></item>
+ <item name="clan_hl_postfach"><![CDATA[Postilaatikko]]></item>
+ <item name="clan_hl_bewerbungen"><![CDATA[Hakemukset]]></item>
+ <item name="clan_hl_mitglieder"><![CDATA[Jäsenet]]></item>
+ <item name="clan_hl_clan_logo"><![CDATA[Klaanilogo]]></item>
+ <item name="clan_hl_clan_suche"><![CDATA[Klaanihaku]]></item>
+ <item name="clan_hl_clan_news"><![CDATA[Klaaniuutiset]]></item>
+ <item name="clan_hl_clan_text"><![CDATA[Klaaniteksti]]></item>
+ <item name="clan_hl_claninformation"><![CDATA[Klaanitiedot]]></item>
+ <item name="clan_hl_clan"><![CDATA[Klaani]]></item>
+ <item name="clan_hl_clan_bewerbung"><![CDATA[Klaanihakemukset]]></item>
+ <item name="clan_hl_steuern_aendern"><![CDATA[Muuta veroa]]></item>
+ <item name="clan_hl_firmendetails"><![CDATA[Yhtiötiedot]]></item>
+ <item name="clan_message_error_payout_userMaxWeekly_reached"><![CDATA[Viikoittainen maksuraja tälle pelaajalle on saavutettu.]]></item>
+ <item name="clan_message_error_payout_userMax_reached"><![CDATA[Summa ylittää viikoittaisen maksurajan tälle pelaajalle. Suurin mahdollinen maksu on: %AMOUNT% %CURRENCY%]]></item>
+ <item name="clan_message_error_payout_clanMax_reached"><![CDATA[Klaanilla ei ole riittävästi krediittejä.]]></item>
+ <item name="clan_message_payout_maxAmount"><![CDATA[(max. %AMOUNT% %CURRENCY%)]]></item>
+</resource>
