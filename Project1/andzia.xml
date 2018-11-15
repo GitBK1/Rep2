@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
 	<node>
-		<node2>
-			Nie rusz Andziu tego kwiatka, 
-		</node2>
-		<node2>
-			Róża kole rzekła matka.
-		</node2>
-		<node2>
-			Andzia mamy nie słuchała,
-		</node2>
-		<node2>
-			Ukłuła się i płakała.
-		</node2>
+		<node2> 			Nie rusz Andziu tego flowers kwiatka takie tam,  		</node2>
+		<node2> 			Róża kole rzekła matka ram pam pam. </node2>
+		<node2> 			Andzia mamy nie słuchała, 		</node2>
+		<node2> 			Ukłuła się i płakała. </node2>
 	</node>
 </root>
