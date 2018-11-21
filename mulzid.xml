@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<node name="bogna">
+		<string key="ABC">
+			<original>Pewien muł niedobrze się czuł. </original> 
+		</string>
+	</node>	
+</root>
